@@ -87,8 +87,20 @@ body {
   overflow-x: hidden;
 }
 
+body {
+  background: $secondary-light;
+}
+
 main {
-  padding: 100px 20px 0 20px;
+  display: flex;
+  justify-content: center;
+  padding: 140px 20px 40px 20px;
+  background: $secondary-light;
+  min-height: 100vh;
+
+  @media (min-width: $screen-lg) {
+    padding: 180px 20px 0px 20px;
+  }
 }
 
 body {
@@ -122,6 +134,7 @@ a {
   border-radius: 5px;
   background: $primary-dark;
   color: $neutral-light;
+  font-weight: 500;
   border: 1px solid $primary-dark;
 }
 
