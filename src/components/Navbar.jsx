@@ -5,6 +5,9 @@ import styles from "@/styles/components/navbar.module.scss";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import ExtendedNavbarMenu from "./ExtendedNavbarMenu";
+import { faBars, faX } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 
 
 export default function Navbar() {
@@ -37,8 +40,8 @@ export default function Navbar() {
             <li className={`${styles.nav_link} ${pathname === "/contact" && styles.nav_link_active}`}>Contact</li>
           </Link>
       </ul>
-      {isOpen ? <i aria-hidden className={`fa-solid fa-x ${styles.nav_button}`} onClick={() => handleClick()}></i> :
-      <i aria-hidden className={`fa-solid fa-bars ${styles.nav_button}`} onClick={() => handleClick()}></i>
+      { isOpen ? <FontAwesomeIcon icon={faX} className={styles.nav_button} onClick={() => handleClick()} /> :
+        <FontAwesomeIcon icon={faBars} className={styles.nav_button} onClick={() => handleClick()} />
       }
       {isOpen && <ExtendedNavbarMenu setIsOpen={setIsOpen}/>}
     </nav>
