@@ -1,0 +1,66 @@
+@import "../abstracts/variables.scss";
+
+.navbar {
+    position: fixed;
+    top: 0;
+    height: 100px;
+    width: 100%;
+    padding: 0 20px;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: $primary-dark;
+    color: $neutral-light;
+
+    @media (min-width: $screen-sm) {
+        flex-direction: column;
+        gap: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: $neutral-light;
+}
+
+.nav_links_container {
+    display: none;
+
+    @media (min-width: $screen-sm) {
+        display: flex;
+        list-style: none;
+        gap: 15px;
+    }
+}
+
+.nav_link {
+    text-decoration: none;
+    // color: black;
+    color: $neutral-light;
+    font-weight: 500;
+}
+
+.nav_link:hover, .nav_link_active {
+    border-bottom: 2px solid $neutral-light;
+}
+
+.nav_button {
+    position: absolute;
+    right: 20px;
+    font-size: 2rem;
+    background: none;
+    border: none;
+    
+    @media (min-width: $screen-sm) {
+        display: none !important;
+    }
+}
+
+.nav_button:hover {
+    cursor: pointer;
+}
