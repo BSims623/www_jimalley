@@ -8,8 +8,6 @@ import ExtendedNavbarMenu from "./ExtendedNavbarMenu";
 import { faBars, faX } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-
-
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
     const pathname = usePathname();
@@ -18,7 +16,6 @@ export default function Navbar() {
         console.log(!isOpen);
         setIsOpen(!isOpen);
     }
-
 
   return (
     <nav className={styles.navbar}>
