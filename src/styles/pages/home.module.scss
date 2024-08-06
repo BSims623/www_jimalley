@@ -1,5 +1,13 @@
 @import '../abstracts/variables.scss';
 
+.main {
+    padding: 140px 20px 0px 20px;
+    
+    @media (min-width: $screen-lg) {
+      padding: 180px 20px 0px 20px;
+    }
+}
+
 .hero {
     width: 100%;
     max-width: 700px;
