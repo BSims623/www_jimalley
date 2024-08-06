@@ -19,7 +19,7 @@ export default function Navbar() {
 
   return (
     <nav className={styles.navbar}>
-      <Link href="/"><h1 className={styles.title}>Jim Alley</h1></Link>
+      <Link href="/"><span className={styles.title}>Jim Alley</span></Link>
       <ul className={styles.nav_links_container}>
           <Link href="/">
             <li className={`${styles.nav_link} ${pathname === "/" && styles.nav_link_active}`}>Home</li>
