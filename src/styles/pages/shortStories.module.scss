@@ -1,0 +1,20 @@
+@import "../abstracts/variables.scss";
+
+.main {
+    padding-bottom: 40px;
+}
+
+.content_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    max-width: $screen-lg;
+}
+
+.short_stories_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
