@@ -2,7 +2,7 @@
 
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import styles from '@/styles/components/ContactMe.module.scss';
+import styles from '@/styles/components/contactMe.module.scss';
 
 export default function ContactMe() {
   const form = useRef();
