@@ -1,0 +1,43 @@
+@import '../abstracts/variables.scss';
+
+.form {
+    margin-top: 10px;
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.title {
+    align-self: center;
+}
+
+.form_row {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.input {
+    height: 30px;
+    padding-left: 5px;
+}
+
+.text_area {
+    min-height: 80px;
+    max-width: 100%;
+    padding: 5px;
+}
+
+.input, .text_area {
+    border: 1px solid $primary-dark;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-top: 10px;
+    @media (min-width: $screen-sm) {
+       align-self: center; 
+    }
+}

@@ -21,6 +21,6 @@ export const shortStories = [
         title: "Story 4",
         date: "2024-04-04",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.",
-        path: "/short-stories/story-4"
+        path: "/stories/story_4.md"
     }
 ]

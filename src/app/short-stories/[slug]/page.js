@@ -5,6 +5,7 @@ import Link from "next/link";
 
 export default function Page({ params }) {
   const { slug } = params;
+  console.log(slug);
   
   const getStoryBySlug = (slug) => {
     return shortStories.find(
@@ -13,6 +14,7 @@ export default function Page({ params }) {
   };  
 
   const story = getStoryBySlug(slug);
+  console.log(story);
   
     return (
         <main>

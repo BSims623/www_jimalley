@@ -2,8 +2,6 @@ import styles from "@/styles/pages/shortStories.module.scss";
 import StoryCard from "@/components/StoryCard";
 import { shortStories } from "@/utils/shortStories";
 
-console.log(shortStories);
-
 export default function ShortStories() {
   return (
     <main className={styles.main}>

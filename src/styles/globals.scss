@@ -142,9 +142,9 @@ a {
 }
 
 .btn:hover {
+  cursor: pointer;
   padding: 10px 20px;
   border-radius: 5px;
-  // background: $neutral-light;
   background: $secondary-dark;
   // color: $primary-dark;
 }
