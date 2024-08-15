@@ -17,6 +17,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "isomorphic-dompurify": "^2.14.0",
     "marked": "^14.0.0",
+    "marked-custom-heading-id": "^2.0.9",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"

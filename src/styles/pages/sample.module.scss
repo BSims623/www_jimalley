@@ -1,0 +1,28 @@
+@import '../abstracts/variables.scss';
+
+.main {
+    // gap: 20px;
+}
+
+.sub_nav {
+    position: sticky;
+    top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px 0;
+    list-style: none;
+    background: $neutral-light;
+}
+
+.sub_nav_link {
+    font-size: 1rem;
+    // color: $primary-dark;
+    color: orange;
+}
+
+.sub_nav_link:hover {
+    // border-bottom: 2px solid $primary-dark;
+    border-bottom: 2px solid orange;
+}

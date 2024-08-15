@@ -5,7 +5,6 @@ import Link from "next/link";
 
 export default function Page({ params }) {
   const { slug } = params;
-  console.log(slug);
   
   const getStoryBySlug = (slug) => {
     return shortStories.find(
@@ -14,15 +13,12 @@ export default function Page({ params }) {
   };  
 
   const story = getStoryBySlug(slug);
-  console.log(story);
   
     return (
-        <main>
-            <div className={styles.container}>
+        <main className={styles.main}>
               <h1>{story.title}</h1>
               <MarkdownDisplay path={story.path} />
               <Link href={`/short-stories`} className="btn">Back To All Stories</Link>
-            </div>
         </main>
     )
   }
