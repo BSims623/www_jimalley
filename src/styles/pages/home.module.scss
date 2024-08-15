@@ -22,10 +22,13 @@
 
 .landing_image {
     width: 100%;
-    max-width: 500px;
     max-height: 500px;
     object-fit: cover;
     border-radius: 20px;
+
+    @media (min-width: $screen-lg) {
+      max-width: 500px;
+    }
 }
 
 .desktop_image {

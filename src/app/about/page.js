@@ -8,7 +8,7 @@ export default function About() {
         <section className={`${styles.content_section_right_image} ${styles.content_section}`}>
           <p className={styles.content_paragraph}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.
           </p>
-          <img src={"/images/about/about_image_1.jpg"} className={`${styles.about_image} ${styles.about_image_right}`} />
+          <img src={"/images/contact/contact_image.jpg"} className={`${styles.about_image} ${styles.about_image_right}`} />
         </section>
         <section className={`${styles.content_section} ${styles.content_section_left_image}`}>
           <img src={"/images/about/about_image_2.jpg"} className={styles.about_image} />
