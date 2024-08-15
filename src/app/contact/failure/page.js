@@ -5,7 +5,7 @@ export default function EmailError() {
     return (
         <main className={styles.main}>
             <h1 className={styles.message}>There was an error sending your message try again later.</h1>
-            <Link className="btn" href="/">Back Home</Link>
+            <Link href="/"><button className="btn">Back Home</button></Link>
         </main>
     )
 }

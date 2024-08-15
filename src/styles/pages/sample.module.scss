@@ -1,9 +1,5 @@
 @import '../abstracts/variables.scss';
 
-.main {
-    // gap: 20px;
-}
-
 .sub_nav {
     position: sticky;
     top: 100px;
@@ -18,11 +14,14 @@
 
 .sub_nav_link {
     font-size: 1rem;
-    // color: $primary-dark;
-    color: orange;
+    color: $accent;
+    font-weight: 600;
 }
 
 .sub_nav_link:hover {
-    // border-bottom: 2px solid $primary-dark;
-    border-bottom: 2px solid orange;
+    border-bottom: 2px solid $accent;
+}
+
+.btn {
+    margin-top: 20px;
 }

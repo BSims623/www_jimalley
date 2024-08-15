@@ -18,7 +18,7 @@ export default function Page({ params }) {
         <main className={styles.main}>
               <h1>{story.title}</h1>
               <MarkdownDisplay path={story.path} />
-              <Link href={`/short-stories`} className="btn">Back To All Stories</Link>
+              <Link href={`/short-stories`}><button className="btn">Back To All Stories</button></Link>
         </main>
     )
   }

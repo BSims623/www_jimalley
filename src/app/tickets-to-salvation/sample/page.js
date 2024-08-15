@@ -12,7 +12,7 @@ export default function Sample() {
                 <li><Link className={styles.sub_nav_link} href="#chapter-3">Chapter 3</Link></li>
             </ul>
             <MarkdownDisplay path={'/stories/tickets_to_salvation.md'}/>
-            <Link className="btn" href="/tickets-to-salvation">Back</Link>
+            <Link href="/tickets-to-salvation"><button className={`btn ${styles.btn}`}>Back</button></Link>
         </main>
     )
 }
