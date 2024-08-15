@@ -7,7 +7,6 @@ export default function Contact() {
       <div className={styles.main_container}>
         <h1 className={styles.title}>Contact</h1>
         <img className={styles.image} src="/images/contact/contact_image.jpg" alt="Contact Image" />
-        {/* <h2>Send me an email</h2> */}
         <ContactMe />
       </div>
     </main>

@@ -30,7 +30,7 @@ export default function ContactMe() {
 
   return (
     <form className={styles.form} ref={form} onSubmit={sendEmail}>
-      <h2 className={styles.title}>Send me an email</h2>
+      <h2 className={styles.title}>Send me a message</h2>
       <div className={styles.form_row}>
         <label htmlFor="user_name">Full Name</label>
         <input className={styles.input} type="text" name="user_name"  required/>

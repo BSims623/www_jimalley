@@ -1,10 +1,10 @@
+import MarkdownDisplay from "@/components/MarkdownDisplay"
+
 export default function Sample() {
     return (
         <main>
-            <div>
-                <h1>Sample</h1>
-                <p>Sample content</p>
-            </div>
+            <div className="markdown-container"></div>
+            <MarkdownDisplay path={'/stories/tickets_to_salvation.md'}/>
         </main>
     )
 }

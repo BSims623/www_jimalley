@@ -37,7 +37,9 @@
 
 .btn {
     margin-top: 10px;
+    align-self: center;
+
     @media (min-width: $screen-sm) {
-       align-self: center; 
+        align-self: center; 
     }
 }

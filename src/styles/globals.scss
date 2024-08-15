@@ -133,18 +133,19 @@ a {
 
 .btn {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10px 25px;
   border-radius: 5px;
   background: $primary-dark;
   color: $neutral-light;
   font-weight: 500;
-  border: 1px solid $primary-dark;
+  border: none;
 }
 
 .btn:hover {
   cursor: pointer;
-  padding: 10px 20px;
-  border-radius: 5px;
   background: $secondary-dark;
-  // color: $primary-dark;
+}
+
+.markdown-container  h1, .markdown-container h2 {
+  text-align: center;
 }

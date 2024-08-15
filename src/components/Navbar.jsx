@@ -28,7 +28,7 @@ export default function Navbar() {
             <li className={`${styles.nav_link} ${pathname === "/about" && styles.nav_link_active}`}>About</li>
           </Link>
           <Link href="/tickets-to-salvation">
-            <li className={`${styles.nav_link} ${pathname === "/tickets-to-salvation" && styles.nav_link_active}`}>Tickets to Salvation</li>
+            <li className={`${styles.nav_link} ${pathname.includes("/tickets-to-salvation") && styles.nav_link_active}`}>Tickets to Salvation</li>
           </Link>
           <Link href="/short-stories">
             <li className={`${styles.nav_link} ${pathname.includes("/short-stories") && styles.nav_link_active}`}>Short Stories</li>

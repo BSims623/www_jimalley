@@ -21,6 +21,6 @@ export default function MarkdownDisplay({ path }) {
     };
 
     return (
-        <div className={styles.container} dangerouslySetInnerHTML={createMarkup()} />
+        <div className={`${styles.container} markdown-container`} dangerouslySetInnerHTML={createMarkup()} />
     )
 }
