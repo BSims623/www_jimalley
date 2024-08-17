@@ -29,11 +29,9 @@
     }
 }
 
-.about_image {
+.img_container {
     width: 100%;
     height: calc(100vw - 40px);
-    object-fit: cover;
-    border-radius: 20px;
 
     @media (min-width: $screen-md) {
         height: 100%;
