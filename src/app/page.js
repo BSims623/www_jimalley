@@ -1,8 +1,10 @@
 import styles from "@/styles/pages/home.module.scss";
 import ExportedImage from "next-image-export-optimizer";
 import Link from "next/link";
+import { countPages } from "@/utils/paginate.mjs";
 
 export default function Home() {
+
   return (
     <main className={styles.main}>
       <section className={styles.hero}>
