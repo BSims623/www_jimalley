@@ -1,10 +1,5 @@
 @import '../abstracts/variables.scss';
 
-.main_container {
-    display: flex;
-    gap: 20px;
-}
-
 .container {
     display: flex;
 }
@@ -19,6 +14,10 @@
     border-top: 1px solid $primary-dark;
     border-bottom: 1px solid $primary-dark;
     border-right: 1px solid $primary-dark;
+}
+
+.button:hover {
+    cursor: pointer;
 }
 
 .button_start {
@@ -37,20 +36,4 @@
 .page_number {
     font-size: 1.25rem;
     font-weight: 500;
-}
-
-.button_change {
-    width: 40px;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.25rem;
-    color: $primary-dark;
-    border: 1px solid $primary-dark;
-    border-radius: 5px;
-}
-
-.button_change:hover {
-    cursor: pointer;
 }
