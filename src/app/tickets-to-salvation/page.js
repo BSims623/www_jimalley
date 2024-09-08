@@ -6,7 +6,38 @@ export default function TicketsToSalvation() {
     <main className={styles.main}>
       <div className={styles.content_container}>
         <h1>Tickets to Salvation</h1>
-        <p>Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo. Sed pretium blandit orci. Ut eu diam at pede suscipit sodales. Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor.</p>
+        <div className="paragraph_container">
+          <p>My debut novel, <em>Tickets to Salvation</em>, stems from my experiences as a Spanish&ndash;speaking
+            welfare worker in Santa Barbara, California. The novel careens through the traps and
+            pitfalls of the welfare system, the tyranny of living with a mentally disturbed parent, and
+            the efforts of a naïve young welfare worker to make a name for himself by rescuing an at&ndash;risk
+            child on his caseload.
+          </p>
+          <p>The story was inspired by real people and experiences I observed during my tenure at the
+            county welfare department. The first draft was sprawling &mdash; 1,100 pages &mdash; with multiple
+            primary characters and story lines. I submitted it to several publishing houses, and though
+            one major house asked to see more of the text, in the end, there were no takers and the
+            manuscript was tucked away in a dusty box in the garage where it sat for many years. But
+            I was haunted by that manuscript and convinced there was a good story lurking within.
+          </p>
+          <p>When I retired several years ago and resumed writing, I at first wrote about fifty short
+            stories over seven years. Then impulsively I decided to pull out that old yellowing
+            manuscript and transcribe it from hardcopy to electronic. A year later, I began editing. I
+            came up with a good solid draft, but it was still 500 pages. After a professional editorial
+            assessment, I revised it again, this time boiling it down to 280 pages. And now I think I
+            have an interesting and fast&ndash;moving story about a fourteen&ndash;year&ndash;old girl living with an
+            abusive single mother and showing remarkable fortitude and courage as she wends her
+            way from under her mother&apos;s yoke and through an unlikely journey to reach the dreams
+            she thought were unreachable.
+          </p>
+          <p>The story is rich in detail and steeped in Santa Barbara&apos;s history, local color and Mexican
+            heritage. It explores the welfare system, the protagonist&apos;s complex family history, and the
+            origins of flamenco. It is literary (and contemporary, and coming&ndash;of&ndash;age, and
+            bildungsroman) fiction, character&ndash;driven and 74,000&ndash;words. It is currently in the final
+            editing stage. Once available to the public, I will provide more specifics on this site.
+            Meanwhile, please enjoy a sampling of the first three chapters.
+          </p>
+        </div>
         <Link href="/tickets-to-salvation/sample"><button className="btn">Read Sample</button></Link>
       </div>
     </main>

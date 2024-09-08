@@ -17,7 +17,7 @@ export default function Home() {
           <div className={`${styles.mobile_img_container} img_container`}>
             <ExportedImage className={`${styles.landing_image} ${styles.mobile_image}`} src={"/images/landing/landing_image.jpg"} fill={true} alt="Landing image."/>
           </div>
-          <div className={styles.introduction_container}>
+          <div className="paragraph_container">
             <p className={styles.paragraph}>I think at some point, everyone wants to write their story. Who doesn&apos;t want to capture a
             remarkable memory, the sum of their life experiences, or the magic of the most intriguing
             people they&apos;ve known? For me, the passion to write came early, around age nine or ten,
