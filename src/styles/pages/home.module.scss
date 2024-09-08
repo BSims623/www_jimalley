@@ -1,18 +1,19 @@
 @import '../abstracts/variables.scss';
 
-.main {    
+.main { 
+    gap: 20px;   
     @media (min-width: $screen-lg) {
-      padding: 180px 20px 0px 20px;
+      gap: 50px;
     }
 }
 
 .hero {
   width: 100%;
-  max-width: 700px;
+  max-width: 1200px;
 
   @media (min-width: $screen-lg) {
     display: grid;
-    max-width: $screen-lg;
+    max-width: $screen-xl;
     grid-template-columns: 400px 1fr;
     gap: 30px;
   }
@@ -21,8 +22,6 @@
 .landing_image {
     width: 100%;
     max-height: 500px;
-    // object-fit: cover;
-    // border-radius: 20px;
 
     @media (min-width: $screen-lg) {
       max-width: 500px;
@@ -55,16 +54,10 @@
     gap: 20px;
 
     @media (min-width: $screen-lg) {
-      justify-content: space-between;
-      gap: 0px;
-      height: 500px;
+      // justify-content: space-between;
+      // gap: 0px;
+      // height: 500px;
     }
-}
-
-.title_container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .title {
@@ -81,8 +74,24 @@
   font-weight: 400;
 }
 
+.introduction_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 .paragraph {
     @media (min-width: $screen-lg) {
       margin: 0;
     }
+}
+
+.link {
+  color: $accent;
+}
+
+.mobile_break {
+  @media (min-width: $screen-md) {
+    display: none;
+  }
 }
