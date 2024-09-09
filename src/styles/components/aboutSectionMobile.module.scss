@@ -1,0 +1,16 @@
+@import '../abstracts/variables';
+
+.content_section {
+    display: grid;
+    gap: 20px;
+    max-width: $screen-lg;
+
+    @media (min-width: $screen-md) {
+        display: none;
+    }
+}
+
+.img_container {
+    width: 100%;
+    height: calc(100vw - 40px);
+}
