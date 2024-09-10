@@ -38,7 +38,7 @@ export async function generateStaticParams() {
         const numberOfPages = await countPages(story.path, 3070);
       
         // Create the key based on the story title and add it to the accumulator
-        acc[story.title.split(' ').join('-').toLowerCase()] = Array.from(
+        acc[story.title.replace(/\,/g, "").split(' ').join('-').toLowerCase()] = Array.from(
           { length: numberOfPages },
           (_, index) => 'page-' + String(index + 1)
         );
