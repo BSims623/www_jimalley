@@ -11,7 +11,7 @@ export default async function Pager({params}) {
 
     const getStoryBySlug = (slug) => {
         return shortStories.find(
-          (story) => story.title.split(' ').join('-').toLowerCase() === slug
+          (story) => story.title.replace(/\,/g, "").split(' ').join('-').toLowerCase() === slug
         );
       };  
     
@@ -31,7 +31,7 @@ export default async function Pager({params}) {
 }
 
 export async function generateStaticParams() {
-    const slugs = shortStories.map((story) => story.title.split(' ').join('-').toLowerCase()); // Example slug values
+    const slugs = shortStories.map((story) => story.title.replace(/\,/g, "").split(' ').join('-').toLowerCase()); // Example slug values
    
     const sluggers = await shortStories.reduce(async (accPromise, story) => {
         const acc = await accPromise; // Await the accumulated object
