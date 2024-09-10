@@ -1,26 +1,51 @@
 export const shortStories = [
     {
-        title: "Story 1",
+        title: "Some Rain Must Fall",
         date: "2021-01-01",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.",
-        path: "/stories/story_1.md"
+        description: "Two middle-aged men go on a day trip to San Francisco where they discover some things about one another.",
+        path: "/stories/story_1.md",
+        genre: "character-based"
     },
     {
-        title: "Story 2",
+        title: "Black and White",
         date: "2022-02-02",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.",
-        path: "/stories/story_2.md"
+        description: "A timid schoolgirl endures challenges as one of three black students integrating a Bakersfield elementary school.",
+        path: "/stories/story_2.md",
+        genre: "character-based"
     },
     {
-        title: "Story 3",
+        title: "Alone in Paradise",
         date: "2023-03-03",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.",
-        path: "/stories/story_3.md"
+        description: "A man goes to Hawaii to visit his dying aunt.",
+        path: "/stories/story_3.md",
+        genre: "family-matters"
     },
     {
-        title: "Story 4",
+        title: "Hamlin Street",
         date: "2024-04-04",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.",
-        path: "/stories/story_4.md"
-    }
+        description: "A young boy deals with his parents' separation and his father's absence.",
+        path: "/stories/story_4.md",
+        genre: "family-matters"
+    },
+    {
+        title: "Promises Broken, Promises Kept",
+        date: "2024-04-04",
+        description: "A man's beloved grandmother is hospitalized for a broken ankle. Though her ankle is healing, something strange is going on.",
+        path: "/stories/story_4.md",
+        genre: "catchall"
+    },
+    {
+        title: "The Isla Vista Fish Head",
+        date: "2024-04-04",
+        description: "Friends place a bet on whether one of their friends who insists on smelling everything will actually smell a new book.",
+        path: "/stories/story_4.md",
+        genre: "catchall"
+    },
+    {
+        title: "OJ, Kareem, and Me",
+        date: "2024-04-04",
+        description: "An essay about being in college classes with two of the most famous athletes in American history.",
+        path: "/stories/story_4.md",
+        genre: "essay"
+    },
 ]
