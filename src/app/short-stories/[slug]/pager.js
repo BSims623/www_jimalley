@@ -8,7 +8,7 @@ export default function Page({ params }) {
   
   const getStoryBySlug = (slug) => {
     return shortStories.find(
-      (story) => story.title.split(' ').join('-').toLowerCase() === slug
+      (story) => story.title.split(' ').join('-').toLowerCase() === slug.replace(/\,/g, "")
     );
   };  
 
@@ -26,6 +26,6 @@ export default function Page({ params }) {
   export async function generateStaticParams() {    
    
     return shortStories.map((story) => ({
-      slug: story.title.split(' ').join('-').toLowerCase(),
+      slug: story.title.replace(/\,/g, "").split(' ').join('-').toLowerCase(),
     }))
   }
