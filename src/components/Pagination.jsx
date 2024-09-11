@@ -3,7 +3,7 @@ import Link from "next/link";
 import { faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-export default function Pagination({numberOfPages, currentPage, story}) {
+export default function Pagination({numberOfPages, currentPage, story, thePath}) {
     let pages;
     if (numberOfPages <= 7) {
         pages = Array.from({length: numberOfPages}, (_, index) => index + 1);  
@@ -20,7 +20,7 @@ export default function Pagination({numberOfPages, currentPage, story}) {
 
     return (
         <div className={styles.container}>
-            <Link href={currentPage === 1 ? `/short-stories/${story}/page-1`: `/short-stories/${story}/page-${currentPage - 1}`}>
+            <Link href={currentPage === 1 ? `${thePath}/${story}/page-1`: `${thePath}/${story}/page-${currentPage - 1}`}>
                 <div className={`${styles.button} ${styles.button_start}`}>
                     <FontAwesomeIcon icon={faArrowLeft} />
                 </div>
@@ -34,7 +34,7 @@ export default function Pagination({numberOfPages, currentPage, story}) {
                     )
                 } else {
                     return (
-                    <Link href={`/short-stories/${story}/page-${page}`} key={index}>
+                    <Link href={`${thePath}/${story}/page-${page}`} key={index}>
                         <div className={`${styles.button} ${index === 0 && styles.button_startt} ${page === numberOfPages && styles.button_endd} ${page === currentPage && styles.button_current}`}>
                             <span className={styles.page_number}>{page}</span>
                         </div>
@@ -42,7 +42,7 @@ export default function Pagination({numberOfPages, currentPage, story}) {
                 ) 
                 }
             })}
-            <Link href={currentPage === numberOfPages ? `/short-stories/${story}/page-${numberOfPages}`: `/short-stories/${story}/page-${currentPage + 1}`}>
+            <Link href={currentPage === numberOfPages ? `${thePath}/${story}/page-${numberOfPages}`: `${thePath}/${story}/page-${currentPage + 1}`}>
                 <div className={`${styles.button} ${styles.button_end}`}>
                     <FontAwesomeIcon icon={faArrowRight} />
                 </div>

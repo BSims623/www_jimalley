@@ -58,3 +58,63 @@ export async function getPage(pathToStory, numOfChars, pageNumber) {
         }
     }
 }
+
+export async function getChapters(pathToStory) {
+    pathToStory = "/public" + pathToStory;
+
+    const absolutePath = path.join(process.cwd(), pathToStory);
+    
+    let content = await fs.readFile(absolutePath, 'utf-8');
+
+    content = content.split(/\s(?=#)/).filter((chapter) => chapter !== "").map((chapter) => chapter.trimStart());
+
+    return content
+}
+
+export function countPagesTwo(content, numOfChars) {
+    let numberOfPages = 0;
+    let pointerTwo = numOfChars;
+
+    if (content.length === numOfChars || content.length < numOfChars) {
+        return 1
+    }
+
+    while (numOfChars < content.length) {
+        while (content[pointerTwo] !== " ") {
+            pointerTwo--
+        }
+        numberOfPages++;
+        content = content.slice(pointerTwo + 1);
+        pointerTwo = numOfChars;
+        if (content.length < numOfChars && content.length > 0) {
+            numberOfPages++
+        }
+    }
+
+    return numberOfPages
+}
+
+export function getPageTwo(content, numOfChars, pageNumber) {
+    let currentPageContent;
+    let numberOfPages = 0;
+    let pointerTwo = numOfChars;
+
+    if (content.length === numOfChars || content.length < numOfChars) {
+        return content
+    }
+
+    while (numOfChars < content.length) {
+        while (content[pointerTwo] !== " ") {
+            pointerTwo--
+        }
+        numberOfPages++;
+        currentPageContent = content.slice(0, pointerTwo);
+        if (numberOfPages === pageNumber) return currentPageContent;
+        content = content.slice(pointerTwo + 1);
+        pointerTwo = numOfChars;
+        if (content.length < numOfChars && content.length > 0) {
+            numberOfPages++
+            return content
+        }
+    }
+}

@@ -38,7 +38,7 @@ export default function TicketsToSalvation() {
             Meanwhile, please enjoy a sampling of the first three chapters.
           </p>
         </div>
-        <Link href="/tickets-to-salvation/sample"><button className="btn">Read Sample</button></Link>
+        <Link href="/tickets-to-salvation/chapter-1/page-1"><button className="btn">Read Sample</button></Link>
       </div>
     </main>
   );
