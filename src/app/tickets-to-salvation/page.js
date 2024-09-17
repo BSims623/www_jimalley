@@ -41,6 +41,13 @@ export default function TicketsToSalvation() {
             have a fast-moving and inspirational story about a disadvantaged young girl who pursues
             an unlikely journey to reach heights she thought were unreachable.
           </p>
+          <p>The story is rich in detail and steeped in Santa Barbara&apos;s history, local color and Mexican
+            heritage. It explores the welfare system, the protagonist&apos;s complex family history, and the
+            origins of flamenco. It is literary (and contemporary, and coming-of-age, and
+            bildungsroman) fiction and character-driven. It is currently in the final editing stage.
+            Once available to the public, I will provide more specifics on this site. Meanwhile, please
+            enjoy a sampling of the first three chapters.
+          </p>
         </div>
         <Link href="/tickets-to-salvation/chapter-1/page-1"><button className={`btn ${styles.btn}`}>tickets to salvation</button></Link>
       </div>
