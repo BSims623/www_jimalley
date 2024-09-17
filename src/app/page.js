@@ -11,11 +11,11 @@ export default function Home() {
       </div>
       <section className={styles.hero}>
         <div className={"img_container"}>
-          <ExportedImage className={`${styles.landing_image} ${styles.desktop_image}`} src={"/images/landing/Jim_with_Horse.jpg"} fill={true} alt="A picture of Jim Alley with a horse."/> 
+          <ExportedImage className={`${styles.landing_image} ${styles.desktop_image}`} src={"/images/landing/jim_with_horse.jpg"} fill={true} alt="A picture of Jim Alley with a horse."/> 
         </div>
         <div className={styles.content_container}>
           <div className={`${styles.mobile_img_container} img_container`}>
-            <ExportedImage className={`${styles.landing_image} ${styles.mobile_image}`} src={"/images/landing/Jim_with_Horse.jpg"} fill={true} alt="A picture of Jim Alley with a horse."/>
+            <ExportedImage className={`${styles.landing_image} ${styles.mobile_image}`} src={"/images/landing/jim_with_horse.jpg"} fill={true} alt="A picture of Jim Alley with a horse."/>
           </div>
           <div className="paragraph_container">
             <p className={styles.paragraph}>I&apos;m a veteran short story writer living in West Sacramento, California with Deborah, my
@@ -29,12 +29,6 @@ export default function Home() {
               novel drafts. My short stories have appeared in several national magazines and local
               literary magazines; my essays in an on-line journal, and my debut novel, Tickets to
               Salvation, is in final editing and will soon be available to the public.</p>
-            {/* <p>My primary inspiration to write has always been a stable of colorful friends, family, and
-              acquaintances who have filled my life with joy, wonder, and intrigue. And, like all
-              writers, I&apos;ve drawn from my life experiences, especially jobs from stable boy, gardener,
-              and construction laborer to teacher, welfare worker, and government analyst. But maybe
-              the most seductive draw is a belief that there a is purpose to life, something greater than
-              us, a reason, a rationale, a symmetry that in the end makes life gratifying and complete.</p> */}
             <p>Please learn more about <Link className={styles.link} href="/about">me</Link>, read an excerpt from my upcoming novel, <Link className={styles.link} href="tickets-to-salvation">Tickets to
               Salvation</Link>, or read several of my <Link className={styles.link} href="short-stories">short stories</Link> on this site. 
             </p>
