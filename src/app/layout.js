@@ -1,8 +1,6 @@
-import { Inter } from "next/font/google";
+import { inter } from "@/styles/fonts";
 import "@/styles/globals.scss";
 import Navbar from "@/components/Navbar";
-
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Jim Alley",

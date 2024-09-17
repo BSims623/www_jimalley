@@ -1,581 +1,300 @@
 ## CHAPTER 1: EARLY AUGUST
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On a bright Santa Barbara afternoon in early August, the palm trees swayed in the breeze and the waves pounded to shore. At open-air restaurants on State Street, beautiful people sipped lattes and Margaritas. Across town on Milpas Street, dark-skinned young men slinked along the old sidewalks, beautiful Mexican girls paraded proudly, and low-riders cruised back and forth in low-slung Chevys. The suburbs on the Mesa buzzed, business on Upper State was hopping, Hope Ranch and Montecito were respectably subdued, and on Cabrillo Boulevard, the street hugging the coast, the annual Historical Parade was about to begin.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fourteen-year-old Maya Pareto stood patiently amid the chaos of the parade’s formation point waiting to realize a lifelong dream. Clad in a colorful flamenco dress, black shoes, and a rose pinned in her hair, she and four other girls were about to step aboard the Sanchez Family Float and dance in front of thousands of people along the parade route. All around her were floats adorned in colorful flowers, riders on horseback, motorcycle police, dignitaries in convertibles, girls in majorette uniforms, band members with instruments poised, and people moving like bees in a hive.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bill Jimenez, tall and slender with a thin mustache, wearing earphones and holding a clipboard, moved about briskly directing people, pointing this way and that, shouting directions and speaking into his walky-talky. He approached the majorette at the front of the marching band and shouted, “Alright! Start her up!” The majorette tooted her whistle. The band stiffened. Then she blew several sharp blasts and the drum section thundered. Bill Jimenez leaned into her ear and raised two fingers, then moved briskly ahead to the Spirit of Fiesta at the front of the procession and spoke into her ear and again raised two fingers.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several blocks up Cabrillo Boulevard, a PA system reverberated over the crowd along the sidewalk. “And now begins Santa Barbara’s Old Spanish Days Historical Parade!” There was a sprinkling of applause. “The drums you hear are those of the Santa Barbara High School Dons Marching Band!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The drums pounded mercilessly, then broke off, baring the rustlings of the crowd. Then several sharp whistle-blasts and the trumpets, clarinets, saxophones, tubas, flutes, and oboes came to attention, perched in readiness, then abruptly began playing, drowning out all other sounds as they marched in place.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bill Jimenez stepped behind the flamenco band and waved to the horsemen. An enormous white steed carrying a heavy-set, florid-faced man in elaborate vaquero attire lumbered forward, two groomers still running brushes through the horse’s silky mane and tail. The rider smiled at Bill and raised a friendly hand. “Leave at least fifty feet between you and the band!” Bill shouted. “At least fifty feet!” The man nodded and reined the animal.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A second magnificent mount carrying a wrinkled Mexican woman in an elaborate red Spanish dress clopped forward. She smiled and shouted something to Bill, but her voice wilted under the band. He nodded and they conferred, then she sat upright and laughed heartily. Bill waved her on and spoke to the other horsemen one at a time, each elderly and adorned in elaborate Spanish attire.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The band completed its number and again went silent, baring the murmurs of the crowd. Then the leader let out a single long whistle blast, followed by several short ones and again the percussions resumed, thrumming heavily through the crowd. Then another short pause, several short whistle-blasts, and again the full band.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Sanchez Family float was thirty feet long and shimmered with thousands of white flowers. On the upward sloping front end, the name Sanchez was spelled in brilliant red flowers. Halfway back, a gazebo with white pillars rose into a Moorish-style arch and roof structure. Flamenco music blared from speakers hidden amid the flowers. Behind the gazebo a tall projection bore a yellow sun made of marigolds with silver streamers glittering in the wind.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When it reached Bill Jimenez, he shouted to the girls waiting in front of The España restaurant. “Entrants Nine-A, B, C, D, and E, your float is ready!” Maya and the four others stepped forward, giggling and chattering.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Alright, ladies,” Bill said. “Time to git on board.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He assisted each girl onto the gazebo, careful not to ruffle their elaborate dresses or the float’s fragile flowers. As each stepped into place, he reminded them to use the grab bar because of the many abrupt stops and starts along the route.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three girls stood in place clicking their castanets and Bill was helping the fourth, Maya, climb aboard when he was interrupted by an angry voice.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He turned to see a weathered, beaten-down woman approach. She looked to be in her mid-fifties, gray-brown hair, a haggard face, wearing thread-bare tennis shoes, a faded plaid skirt and a blouse with missing buttons. But her most striking feature was her burning eyes.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Put her down!” she roared at Bill. “Put my baby down!” As he looked on, she grabbed the girl by both arms and yanked her roughly to the pavement, then hovered over her.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya said, “Oh Mom. It’s alright. I’m just going to ride in the parade. It’ll be over in an hour. I promise.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the woman clutched the girl desperately, then speaking in Spanish, said, “No, my daughter. You cannot go. You will stay with me.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wrenching free, Maya looked her mother in the eye. “Mom! You said I could go!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hearing that, the woman sprang to her feet and glared at Bill Jimenez so viciously that he stepped back. “Don’ you touch my daughter!” she shouted. “You leave my baby alone!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before Bill could respond, Maya, now close to tears, pleaded, “Mother! Let me go in the parade! You said I could! Wait at the end and I’ll go home with you.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The woman’s glare softened, then again, speaking in Spanish, she said, “You do not love me, my daughter? Do you wish to leave me alone with no one?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom!” Maya pleaded, wrenching free. “You promised! Let me do this one thing!”
-
-But her mother’s anger turned to self-pity and she fell to her knees. “Okay, Maya. You don’ lauve your mother. You don’ lauve your own mother.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes I do!” Maya protested. “I do love you, Mom. You know I do. But you promised I could ride in the parade. You promised.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clutching Maya, she said, “No, mija. We mus’ go home now. Vamonos a la casa. We go now.” Then she buried her head against the girl’s neck and sobbed.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, Maya straightened and looked at Bill. “Go ahead without me.” Then to her mother, “Alright, Mom. Let’s go.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Re-energized, her mother rose, wiped the tears from her face, and led her daughter away.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay,” Bill Jimenez said to the next young dancer, breaking the spell. “Let’s go. We can’t wait all day.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The band finished its song, the majorette let out another shrill blast followed by two short ones, the drum section resumed, and the Spirit of Fiesta at the front of the parade began dancing gracefully forward followed by the walking flamenco band, the six horsemen, the car holding the grand marshal, the Western Bank float, the high school band, the Chumash descendants float, another group of horsemen, and the Sanchez family float. The parade headed up Cabrillo, went right onto Castillo and under the freeway, then right again onto Haley for several blocks, and finally left onto State Street for the rest of the way.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On State Street in front of the Mission Theater, many young brown men perched on the sidewalk, planters, and boxes, enjoying the day, drinking beers, and flirting with the beautiful Mexican girls. The viejo, Eusébio Sanchez, who was always at the Mission Theatre, waited restlessly in a patio chair by the curb, his wife Antonia next to him shewing away children blocking their view. When he barked a command to her, she dutifully gathered her heavy skirts and with sorrowful eyes disappeared into the crowd. With his cane he tapped a child in front of him and motioned for him to move, then with unsteady hands, pulled cigarette papers and tobacco from his pocket, poured tobacco onto the paper and sealed it into a cigarette, then luxuriantly inhaled and exhaled rich blue smoke.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When Antonia returned with a glass of lemonade, he growled at her, then sipped the cool liquid and took another drag from his cigarette as she sat and resumed her brooding.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The earsplitting pop of a firecracker went off nearby. Antonia winced and covered her ears but Eusébio was amused by the young people’s joke and watched them laugh and accuse one another of being the instigator, even turning to Antonia and smiling, revealing his pink tongue and gums.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then there was applause down the street and the young brown men craned to see. “Here comes the Spirit!” someone shouted in Spanish. “Tha Speereet!” All eyes turned and everyone pressed closer. Finally, the young flamenco dancer, the Spirit of Fiesta, came into view, looking beautiful, dancing proudly, smiling and waving. When she reached the viejo, she stopped and danced in place, waiting, as he stood up and walked unsteadily toward her. The crowd roared as he draped a colorful bead necklace over her shoulders and kissed her on the cheek, then continued cheering until he returned to his chair.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then came the flamenco band, the six horsemen, the grand marshal, the Western Bank float, the high school marching band, the Chumash descendants float, more horsemen, and finally Eusébio Sanchez’ own Sanchez family float. When it reached him, he repeated his routine, walking out to the float and placing bead necklaces over the shoulders of each of the four smiling flamenco dancers, unaware that one girl, Maya, was missing.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the parade marched along, Maya’s mother led her back to their apartment building several blocks away. Maya was silent as her mother muttered angrily under her breath. Both were oblivious to the blue Pacific Ocean to their left and the colorful hotels and restaurants to their right, and the spectacle they must be making, a disconsolate young girl in flamenco attire being led away from the parade by a disgruntled woman.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At their apartment building, they climbed the outer steps and traversed the landing to their door. Inside, Maya walked straight to her bedroom, slammed the door shut, collapsed onto the bed, and laid quietly, no longer crying, now just being miserable.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the next room, she heard her mother’s angry voice. “Maya! Come out!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was silent.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You listen to your mother!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Again, Maya did not respond.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bedroom door flung open and slammed against the wall, making Maya flinch. She was not just startled, but fearful of what violence her mother might inflict. Stepping in, her mother, Simpática, leveled her gaze on Maya and spoke in Spanish.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Take off those clothes!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the bed, Maya dared question this. “Why?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Why? What are you going to do?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” her mother screamed, sounding like an injured animal.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When Maya had the audacity to lay still, Simpática stepped forward and slapped the girl on the face, making a loud pop.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was jolted and already felt a welt rising on her cheek. “Ouch, Mom!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You obey your mother! That you remove those clothes!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya knew there was no defying her mother when she was like this, so she reluctantly stood and slipped out of the dress and dance shoes.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Y el flor!” Simpática shouted.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Okay!” Maya whined, unpinning the flower from her hair.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the costume and shoes were in a heap on the floor, Simpática snatched them up and walked out of the room.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! What are you going to do?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Without speaking, Simpática marched to the kitchen, pulled a container of lighter fluid and matches from a drawer and went out the front door.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! What are you doing?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya followed her mother out the door, down the stairs, and to an open area behind the apartment. Simpática threw the dress and shoes to the ground and squirted lighter fluid on them.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Why are you doing this?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática turned to her daughter with fierce eyes. “Maya, you mus’ always obey me. You can never leave me!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya pleaded. “But, Mom, I wasn’t leaving you! I was just going to be in the parade for an hour. Then I would have come back home. I wasn’t leaving you!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya, you lie. You were on the Sanchez float. Sanchez is evil!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya had heard this message from her mother before, but never knew the reason for it. “Why is Sanchez evil?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You no defy me!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With that, Simpática tossed a match onto the pile and it burst into flame.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Those clothes belong to the rec center! We’ll have to pay for them!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática watched the rising flames as the material shriveled, melted, and turned to ash, then Maya snatched the shoes from the edge of the fire.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fourteen-year-old Maya Pareto stood patiently amid the chaos of the parade’s formation point waiting to realize a lifelong dream. Clad in a colorful flamenco dress, black shoes, and a rose pinned in her hair, she and four other girls were about to step aboard the Sanchez Family Float and dance in front of thousands of people along the parade route. All around her were floats adorned in colorful flowers, riders on horseback, motorcycle police, dignitaries in convertibles, girls in majorette uniforms, band members with instruments poised, and people moving like bees in a hive.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bill Jimenez, tall and slender with a thin mustache, wearing earphones and holding a clipboard, moved about briskly directing people, pointing this way and that, shouting directions and speaking into his walky-talky. He approached the majorette at the front of the marching band and shouted, “Alright! Start her up!” The majorette tooted her whistle. The band stiffened. Then she blew several sharp blasts and the drum section thundered. Bill Jimenez leaned into her ear and raised two fingers, then moved briskly ahead to the Spirit of Fiesta at the front of the procession and spoke into her ear and again raised two fingers.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several blocks up Cabrillo Boulevard, a PA system reverberated over the crowd along the sidewalk. “And now begins Santa Barbara’s Old Spanish Days Historical Parade!” There was a sprinkling of applause. “The drums you hear are those of the Santa Barbara High School Dons Marching Band!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The drums pounded mercilessly, then broke off, baring the rustlings of the crowd. Then several sharp whistle-blasts and the trumpets, clarinets, saxophones, tubas, flutes, and oboes came to attention, perched in readiness, then abruptly began playing, drowning out all other sounds as they marched in place.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bill Jimenez stepped behind the flamenco band and waved to the horsemen. An enormous white steed carrying a heavy-set, florid-faced man in elaborate vaquero attire lumbered forward, two groomers still running brushes through the horse’s silky mane and tail. The rider smiled at Bill and raised a friendly hand. “Leave at least fifty feet between you and the band!” Bill shouted. “At least fifty feet!” The man nodded and reined the animal.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A second magnificent mount carrying a wrinkled Mexican woman in an elaborate red Spanish dress clopped forward. She smiled and shouted something to Bill, but her voice wilted under the band. He nodded and they conferred, then she sat upright and laughed heartily. Bill waved her on and spoke to the other horsemen one at a time, each elderly and adorned in elaborate Spanish attire.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The band completed its number and again went silent, baring the murmurs of the crowd. Then the leader let out a single long whistle blast, followed by several short ones and again the percussions resumed, thrumming heavily through the crowd. Then another short pause, several short whistle-blasts, and again the full band.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Sanchez Family float was thirty feet long and shimmered with thousands of white flowers. On the upward sloping front end, the name Sanchez was spelled in brilliant red flowers. Halfway back, a gazebo with white pillars rose into a Moorish-style arch and roof structure. Flamenco music blared from speakers hidden amid the flowers. Behind the gazebo a tall projection bore a yellow sun made of marigolds with silver streamers glittering in the wind.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When it reached Bill Jimenez, he shouted to the girls waiting in front of The España restaurant. “Entrants Nine-A, B, C, D, and E, your float is ready!” Maya and the four others stepped forward, giggling and chattering.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Alright, ladies,” Bill said. “Time to git on board.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He assisted each girl onto the gazebo, careful not to ruffle their elaborate dresses or the float’s fragile flowers. As each stepped into place, he reminded them to use the grab bar because of the many abrupt stops and starts along the route.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three girls stood in place clicking their castanets and Bill was helping the fourth, Maya, climb aboard when he was interrupted by an angry voice.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He turned to see a weathered, beaten-down woman approach. She looked to be in her mid-fifties, gray-brown hair, a haggard face, wearing thread-bare tennis shoes, a faded plaid skirt and a blouse with missing buttons. But her most striking feature was her burning eyes.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Put her down!” she roared at Bill. “Put my baby down!” As he looked on, she grabbed the girl by both arms and yanked her roughly to the pavement, then hovered over her.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya said, “Oh Mom. It’s alright. I’m just going to ride in the parade. It’ll be over in an hour. I promise.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But the woman clutched the girl desperately, then speaking in Spanish, said, “No, my daughter. You cannot go. You will stay with me.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wrenching free, Maya looked her mother in the eye. “Mom! You said I could go!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hearing that, the woman sprang to her feet and glared at Bill Jimenez so viciously that he stepped back. “Don’ you touch my daughter!” she shouted. “You leave my baby alone!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before Bill could respond, Maya, now close to tears, pleaded, “Mother! Let me go in the parade! You said I could! Wait at the end and I’ll go home with you.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The woman’s glare softened, then again, speaking in Spanish, she said, “You do not love me, my daughter? Do you wish to leave me alone with no one?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom!” Maya pleaded, wrenching free. “You promised! Let me do this one thing!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But her mother’s anger turned to self-pity and she fell to her knees. “Okay, Maya. You don’ lauve your mother. You don’ lauve your own mother.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes I do!” Maya protested. “I do love you, Mom. You know I do. But you promised I could ride in the parade. You promised.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clutching Maya, she said, “No, mija. We mus’ go home now. Vamonos a la casa. We go now.” Then she buried her head against the girl’s neck and sobbed.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, Maya straightened and looked at Bill. “Go ahead without me.” Then to her mother, “Alright, Mom. Let’s go.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Re-energized, her mother rose, wiped the tears from her face, and led her daughter away.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay,” Bill Jimenez said to the next young dancer, breaking the spell. “Let’s go. We can’t wait all day.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The band finished its song, the majorette let out another shrill blast followed by two short ones, the drum section resumed, and the Spirit of Fiesta at the front of the parade began dancing gracefully forward followed by the walking flamenco band, the six horsemen, the car holding the grand marshal, the Western Bank float, the high school band, the Chumash descendants float, another group of horsemen, and the Sanchez family float. The parade headed up Cabrillo, went right onto Castillo and under the freeway, then right again onto Haley for several blocks, and finally left onto State Street for the rest of the way.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On State Street in front of the Mission Theater, many young brown men perched on the sidewalk, planters, and boxes, enjoying the day, drinking beers, and flirting with the beautiful Mexican girls. The viejo, Eusébio Sanchez, who was always at the Mission Theatre, waited restlessly in a patio chair by the curb, his wife Antonia next to him shewing away children blocking their view. When he barked a command to her, she dutifully gathered her heavy skirts and with sorrowful eyes disappeared into the crowd. With his cane he tapped a child in front of him and motioned for him to move, then with unsteady hands, pulled cigarette papers and tobacco from his pocket, poured tobacco onto the paper and sealed it into a cigarette, then luxuriantly inhaled and exhaled rich blue smoke.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When Antonia returned with a glass of lemonade, he growled at her, then sipped the cool liquid and took another drag from his cigarette as she sat and resumed her brooding.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The earsplitting pop of a firecracker went off nearby. Antonia winced and covered her ears but Eusébio was amused by the young people’s joke and watched them laugh and accuse one another of being the instigator, even turning to Antonia and smiling, revealing his pink tongue and gums.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then there was applause down the street and the young brown men craned to see. “Here comes the Spirit!” someone shouted in Spanish. “Tha Speereet!” All eyes turned and everyone pressed closer. Finally, the young flamenco dancer, the Spirit of Fiesta, came into view, looking beautiful, dancing proudly, smiling and waving. When she reached the viejo, she stopped and danced in place, waiting, as he stood up and walked unsteadily toward her. The crowd roared as he draped a colorful bead necklace over her shoulders and kissed her on the cheek, then continued cheering until he returned to his chair.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then came the flamenco band, the six horsemen, the grand marshal, the Western Bank float, the high school marching band, the Chumash descendants float, more horsemen, and finally Eusébio Sanchez’ own Sanchez family float. When it reached him, he repeated his routine, walking out to the float and placing bead necklaces over the shoulders of each of the four smiling flamenco dancers, unaware that one girl, Maya, was missing.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the parade marched along, Maya’s mother led her back to their apartment building several blocks away. Maya was silent as her mother muttered angrily under her breath. Both were oblivious to the blue Pacific Ocean to their left and the colorful hotels and restaurants to their right, and the spectacle they must be making, a disconsolate young girl in flamenco attire being led away from the parade by a disgruntled woman.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At their apartment building, they climbed the outer steps and traversed the landing to their door. Inside, Maya walked straight to her bedroom, slammed the door shut, collapsed onto the bed, and laid quietly, no longer crying, now just being miserable.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the next room, she heard her mother’s angry voice. “Maya! Come out!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was silent.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You listen to your mother!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Again, Maya did not respond.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bedroom door flung open and slammed against the wall, making Maya flinch. She was not just startled, but fearful of what violence her mother might inflict. Stepping in, her mother, Simpática, leveled her gaze on Maya and spoke in Spanish.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Take off those clothes!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the bed, Maya dared question this. “Why?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Why? What are you going to do?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” her mother screamed, sounding like an injured animal.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When Maya had the audacity to lay still, Simpática stepped forward and slapped the girl on the face, making a loud pop.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was jolted and already felt a welt rising on her cheek. “Ouch, Mom!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You obey your mother! That you remove those clothes!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya knew there was no defying her mother when she was like this, so she reluctantly stood and slipped out of the dress and dance shoes.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Y el flor!” Simpática shouted.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Okay!” Maya whined, unpinning the flower from her hair.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the costume and shoes were in a heap on the floor, Simpática snatched them up and walked out of the room.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! What are you going to do?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Without speaking, Simpática marched to the kitchen, pulled a container of lighter fluid and matches from a drawer and went out the front door.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! What are you doing?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya followed her mother out the door, down the stairs, and to an open area behind the apartment. Simpática threw the dress and shoes to the ground and squirted lighter fluid on them.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Why are you doing this?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática turned to her daughter with fierce eyes. “Maya, you mus’ always obey me. You can never leave me!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya pleaded. “But, Mom, I wasn’t leaving you! I was just going to be in the parade for an hour. Then I would have come back home. I wasn’t leaving you!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya, you lie. You were on the Sanchez float. Sanchez is evil!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya had heard this message from her mother before, but never knew the reason for it. “Why is Sanchez evil?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You no defy me!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With that, Simpática tossed a match onto the pile and it burst into flame.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Those clothes belong to the rec center! We’ll have to pay for them!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática watched the rising flames as the material shriveled, melted, and turned to ash, then Maya snatched the shoes from the edge of the fire.
 
 “At least not the shoes, Mom,” but Simpática yanked them from her.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the clothing was reduced to embers, Simpática stomped out the flames, spread the ashes with her foot, and headed back to the stairs. Inside again, she pulled a knife from a drawer and began cutting one of the flamenco shoes.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Don’t do that! Those aren’t mine either!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática was unmoved. Fending Maya off, she cut each shoe open in several places until they were ruined. &nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“That you throw these in the garbage!” she shouted in Spanish.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was distraught. “Mom!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya, no more dancing! Is evil! You stay with me!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya wilted. Her mother had always been volatile and irrational, but she thought they had an agreement on flamenco dancing this year.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No more dance lessons!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Defeated again, Maya retreated to her room and flopped onto the bed.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the clothing was reduced to embers, Simpática stomped out the flames, spread the ashes with her foot, and headed back to the stairs. Inside again, she pulled a knife from a drawer and began cutting one of the flamenco shoes.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Don’t do that! Those aren’t mine either!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática was unmoved. Fending Maya off, she cut each shoe open in several places until they were ruined. &nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“That you throw these in the garbage!” she shouted in Spanish.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was distraught. “Mom!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya, no more dancing! Is evil! You stay with me!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya wilted. Her mother had always been volatile and irrational, but she thought they had an agreement on flamenco dancing this year.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No more dance lessons!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Defeated again, Maya retreated to her room and flopped onto the bed.
 
 END
 
-## Chapter 2
+## Chapter 2: EARLY AUGUST
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For four days, Simpática kept Maya locked in the bedroom, insisting she stay there because she had been “bad and evil.” She allowed her to use the bathroom and provided adequate water but the meals were skimpy, mostly copious amounts of Albin protein powder. During the day when Simpática was gone, Maya laid in bed listening to cars passing and people talking outside. At times she thought about the parade she had missed and went through her dance routines, pretending to be on the Sanchez float moving along State Street, even grasping for the balance bar for support. At night she heard her mother in the next room mumbling, cursing, pouring glasses of gin, bumping into furniture, sometimes falling, and then when it was late, snoring.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya and Simpática lived in a dreary stucco apartment building sometimes referred to as the “Ladera Pits” on Ladera Street on Santa Barbara’s lower west side. Its residents included drug users, drug dealers and downtrodden people living on the edge. It was a place where mothers’ day was celebrated on the first and fifteenth of each month when welfare checks arrived. One morning a dead man was found at the bottom of the swimming pool, barely visible through the murky water. There were loud parties and occasional fights, knifings, and shootings. Maya and Simpática steered clear of most of this, except for run-ins with Keith Kyler, a young man with a large head and vacant eyes who often invited Maya to his apartment, and Mr. Kronbach, an older, leather-faced man who forever sat in a chair on the landing across the way staring at Maya through mirrored sunglasses.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They had lived in this apartment for a year, arriving after being evicted from somewhere else and relocating through a welfare department miracle. Simpática and her children had been crisscrossing Santa Barbara’s lower East and West Sides for years, at one time or another living on Coronel, San Pascual, Chino, Painted Cave, De la Vina, Gillespie, Almond, Blanchard, Quarantina, Castillo, and Cacique Streets.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The inside walls of their apartment were dirty and gloomy with several holes punched in the plaster, the floor brown with stains and dust balls. The cheap furniture was dirty and broken, strewn illogically about the place with missing legs and tears in the material. The kitchen counters were covered with trash, dirty pots, pans and dishes, a toaster lying on its side, and several unopened boxes of napkins. And everywhere there were Albin brochures and boxes of Albin protein powder. Like all Simpática residences, it was more of an empty warehouse than a home. The one bedroom, where Maya slept, and sometimes Simpática, was decorated with a forlorn portrait of a praying Jesus and several dog-eared posters tacked to the walls.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was Simpática’s sixth and youngest child, born into a dysfunctional family of five older siblings, an incompetent mother, no money, and no supervision. When Maya was born, eldest sister Luz, fifteen at the time, was the de facto parent and resident adult who had been holding the family together for years. But when Maya was two, Luz married and moved out, then little by little, the others followed so that now Maya was the only one left. Luz still lived in Santa Barbara with her husband and young son, but the other four were long gone and seldom communicated with Maya or their mother.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since as long as Maya could remember, it was her greatest dream to be a flamenco dancer. Each summer, watching the historical parade, she was transfixed by the beautiful flamenco dancer leading the parade so gracefully, so boldly, with so much emotion. She would jump up and down imitating the dancers, making everyone laugh and say, “She wants to dance too!” When at four or five she realized the dancer leading the parade was a dignitary, a celebrity: the Spirit of Fiesta, she vowed that someday she would be that girl.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But early on, she learned that such goals were not an option for people like her and the dream faded. Her life was one of anguish, turmoil and violence with the only safe place being deep inside herself. She was a worthless little nothing; ugly, distrusted, and a burden to anyone with the misfortune of knowing her.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And then during the past year, her world had brightened unexpectedly. The Community Center on Carrillo Street, across from the welfare department gave free flamenco lessons and Maya signed up. She was a natural, excelling beyond anyone’s expectations and was even invited to dance on the Sanchez Family float. But, exhilarating as this was, she did not trust this dream. She knew it was only a matter of time until the other shoe would fall, and now it had. The past year had been nothing more than a cruel hoax.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On Maya’s first night of freedom, her mother allowed her to prepare a real dinner. She made bean tacos and lima beans. As she sat at the table squishing the beans with her fork, chewing a tortilla and drinking a glass of orange juice, her mother described the protein powder that makes you strong.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I can sell, Maya! I sell vary mush!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was silent.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I sell vary mush an’,” now in Spanish, “the lady will send me to the convention.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What convention?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“The convention, _mija_. At the place in LA.” Then again in Spanish, “A hotel so large and magnificent. She sends me there. I sell the powder and go to LA.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh,” Maya managed to say indifferently.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“They half many, many people. _Muchadumbre_. And they half awarts.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Warts?” Maya protested, now with full attention. “They have warts?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Awarts, mija. Awarts.” Then explaining in Spanish, “Like the general who has prizes on his chest?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Medals?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes,” Simpática nodded with round eyes. “Medals. They give at the convention. You know the medals? They give down there.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay, Mom,” Maya allowed.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next morning, Simpática insisted Maya drink a cup of Albin protein drink, a demand she would make every morning and evening from then on, then announced they would go out on an Albin sales run. Maya slumped in her chair. It was one thing to be a prisoner in her own home and forced to drink this protein powder, but another to go door-to-door all over town trying to convince people to buy something they didn’t want.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom, I don’t want to do that. It’s boring.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática bristled. “Maya! You no defy your mother!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya whined. “I’m not defying you, Mom. I just don’t wanna go. You can sell without me.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Simpática was filled with a burning resolve, even by her standards, and at ten a.m., they collected their samples and brochures and walked to Coronel and San Pascual Streets and climbed onto a city bus that lumbered across town to the East Side. They got off at Salinas and Carpinteria, at the base of the Santa Ynez mountains, walked to Canada Street and began their venture.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They made their way up and down several streets, not missing a single house. As Simpática tried to coerce people to buy her product, Maya waited quietly, gazing at the lawns, the streets, and the Ss on the chimneys. Many doors would not open; others just enough for someone to say, “We’re not interested.” Sometimes Maya noticed a shade or curtain pulling back so someone could watch them. But several Spanish-speaking women did open their doors. Maya would cringe because her mother was so disorganized and had no sales pitch, saying “This powder is good! It make me and my daughter strong!” though neither Maya nor her mother appeared very strong. When asked factual questions, Simpática would go off on tangents about unrelated matters, Maya often interceding to clarify and bring the conversation back to earth. At each house, Simpática instructed Maya to leave a sales brochure including their name and phone number, even though their phone was long-since disconnected.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As they approached a house on Mason Street, someone called them from behind. It was Brian Maguire, a family friend two years older than Maya. He was smallish, had neatly combed red hair, a round, pale face with freckles, blue eyes, and a muscular build. He and Maya had known each other since early childhood, spending birthdays and holidays together. He was like a brother to Maya, and sometimes a protector.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“C’mon, le’s go,” Simpática urged.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Just a minute,” Maya said. “I want to talk to Brian.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As Simpática continued up the walk, Brian asked Maya, “What are you guys doing?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Selling Albin,” she moaned. “I hate it.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What is Albin?” he said.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Protein powder. It’s supposed to make you healthy and give you more energy.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian pondered this.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom thinks she can make money selling it but she isn’t making any. Hardly anyone wants to buy it, at least from her.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why are you going along?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya looked defeated. “She’s making me. I’m grounded.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They heard a door shut and realized Simpática had been let inside.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian smiled coyly. “Wanna go for a little walk?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya weighed the significance of this, then impulsively said, “Okay.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They began walking up Mason Street away from the house but heard the door open and shut again and Simpática now conversing with someone outside. Maya froze in her tracks.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian’s smile widened. “You wanna disappear?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She looked at him. This would be blasphemy. But even though she knew her mother could see her, resumed her stride. &nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She gasped and her step faltered, then she did something she may have never done before: she openly defied her mother, keeping pace with Brian. She told herself they could pretend they didn’t hear her.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her mother’s roar was unnerving. Brian took three more steps, then succumbed to his panic and broke into a run, Maya reflexively staying with him. They ran for two blocks until they reached the bridge just before Alameda Padre Serra at the base of the mountains. &nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Down there!” Brian yelled, and they scaled down the ravine, trampling weeds and rolling rocks. At the bottom, they moved into the darkness under the bridge, certain Simpática would not find them there. Hunkered quietly, they heard the creek gurgle and saw one another’s silhouettes but little more.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“We’ll just stay here for a minute till we’re sure she’s gone,” Maya said. “She’ll give up and leave in a couple minutes.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian sighed, then leaned back leisurely and folded his arms above his head. The breezes drifted lazily, rustling the tall grass and cooling their perspiration. From time to time, they heard a car or bicycle passing overhead. Maya turned to Brian to suggest they get going again, but the words were just forming on her lips when she was jolted.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She looked up in panic. Simpática was only a few feet away on the bridge above them.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“How did she know we were here?” Brian asked.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undergrowth crackled as they shifted to get a glimpse of her.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You come, Maya!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian whispered, “Do you think she knows we’re under here or just that we’re nearby?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya brought a finger to her lips. “Shhh.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Simpática kept yelling until her voice was hoarse. Then they heard a man ask her who she was looking for. It was quiet for a minute, then he said, “I don’t see anyone down there. Are you sure someone’s there?” Maya imagined the wild expression on her mother’s face when she insisted, “I see her! She is there!” Then the man got tired of this and left.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian gazed to the creek stretching into the distance. “Maybe if we sneak off that way, she won’t see us.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya considered this.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“It’s better than sitting here all day,” he reasoned.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They made their way through the tall grass away from Simpática. If they could make it just a few more yards, they’d reach tall grass and be free. But if Simpática crossed to their side of the bridge, they’d be in plain sight. They continued cautiously, then were jolted again.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” Simpática shrieked. “The Padre, he does not forgive you!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya turned. Simpática was at the railing gazing directly at them.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You come here now!” She pointed to a spot on the street next to her. “You stop sinning, Maya! Stop sinning!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya shouted back, “I’m not sinning, Mom!” Then she and Brian bolted off, toppling rocks and thrashing through weeds, eventually breaking into laughter, their faces contorted, their lungs aching. They ran like outlaws, dust rising and settling on their sweaty skin. When they’d gone a long way, they stopped and rested below Yanonali Street, their hearts pounding. In a minute it was very still, the only sound being an occasional cricket. Their breathing slowed and their sweat dried and they became almost drowsy. Then they heard Simpática again.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya lurched, thumping Brian in the jaw so he bit his tongue deeply and tasted the salty blood in his mouth.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“We gotta go!” she urged.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They scaled up the incline and ran up Yanonali Street all the way to Soledad. “This way,” Brian said, pointing. “We can hide at my house!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya and Simpática lived in a dreary stucco apartment building sometimes referred to as the “Ladera Pits” on Ladera Street on Santa Barbara’s lower west side. Its residents included drug users, drug dealers and downtrodden people living on the edge. It was a place where mothers’ day was celebrated on the first and fifteenth of each month when welfare checks arrived. One morning a dead man was found at the bottom of the swimming pool, barely visible through the murky water. There were loud parties and occasional fights, knifings, and shootings. Maya and Simpática steered clear of most of this, except for run-ins with Keith Kyler, a young man with a large head and vacant eyes who often invited Maya to his apartment, and Mr. Kronbach, an older, leather-faced man who forever sat in a chair on the landing across the way staring at Maya through mirrored sunglasses.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They had lived in this apartment for a year, arriving after being evicted from somewhere else and relocating through a welfare department miracle. Simpática and her children had been crisscrossing Santa Barbara’s lower East and West Sides for years, at one time or another living on Coronel, San Pascual, Chino, Painted Cave, De la Vina, Gillespie, Almond, Blanchard, Quarantina, Castillo, and Cacique Streets.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The inside walls of their apartment were dirty and gloomy with several holes punched in the plaster, the floor brown with stains and dust balls. The cheap furniture was dirty and broken, strewn illogically about the place with missing legs and tears in the material. The kitchen counters were covered with trash, dirty pots, pans and dishes, a toaster lying on its side, and several unopened boxes of napkins. And everywhere there were Albin brochures and boxes of Albin protein powder. Like all Simpática residences, it was more of an empty warehouse than a home. The one bedroom, where Maya slept, and sometimes Simpática, was decorated with a forlorn portrait of a praying Jesus and several dog-eared posters tacked to the walls.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was Simpática’s sixth and youngest child, born into a dysfunctional family of five older siblings, an incompetent mother, no money, and no supervision. When Maya was born, eldest sister Luz, fifteen at the time, was the de facto parent and resident adult who had been holding the family together for years. But when Maya was two, Luz married and moved out, then little by little, the others followed so that now Maya was the only one left. Luz still lived in Santa Barbara with her husband and young son, but the other four were long gone and seldom communicated with Maya or their mother.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since as long as Maya could remember, it was her greatest dream to be a flamenco dancer. Each summer, watching the historical parade, she was transfixed by the beautiful flamenco dancer leading the parade so gracefully, so boldly, with so much emotion. She would jump up and down imitating the dancers, making everyone laugh and say, “She wants to dance too!” When at four or five she realized the dancer leading the parade was a dignitary, a celebrity: the Spirit of Fiesta, she vowed that someday she would be that girl.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But early on, she learned that such goals were not an option for people like her and the dream faded. Her life was one of anguish, turmoil and violence with the only safe place being deep inside herself. She was a worthless little nothing; ugly, distrusted, and a burden to anyone with the misfortune of knowing her.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And then during the past year, her world had brightened unexpectedly. The Community Center on Carrillo Street, across from the welfare department gave free flamenco lessons and Maya signed up. She was a natural, excelling beyond anyone’s expectations and was even invited to dance on the Sanchez Family float. But, exhilarating as this was, she did not trust this dream. She knew it was only a matter of time until the other shoe would fall, and now it had. The past year had been nothing more than a cruel hoax.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On Maya’s first night of freedom, her mother allowed her to prepare a real dinner. She made bean tacos and lima beans. As she sat at the table squishing the beans with her fork, chewing a tortilla and drinking a glass of orange juice, her mother described the protein powder that makes you strong.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I can sell, Maya! I sell vary mush!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya was silent.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I sell vary mush an’,” now in Spanish, “the lady will send me to the convention.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What convention?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“The convention, _mija_. At the place in LA.” Then again in Spanish, “A hotel so large and magnificent. She sends me there. I sell the powder and go to LA.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh,” Maya managed to say indifferently.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“They half many, many people. _Muchadumbre_. And they half awarts.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Warts?” Maya protested, now with full attention. “They have warts?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Awarts, mija. Awarts.” Then explaining in Spanish, “Like the general who has prizes on his chest?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Medals?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes,” Simpática nodded with round eyes. “Medals. They give at the convention. You know the medals? They give down there.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay, Mom,” Maya allowed.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next morning, Simpática insisted Maya drink a cup of Albin protein drink, a demand she would make every morning and evening from then on, then announced they would go out on an Albin sales run. Maya slumped in her chair. It was one thing to be a prisoner in her own home and forced to drink this protein powder, but another to go door-to-door all over town trying to convince people to buy something they didn’t want.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom, I don’t want to do that. It’s boring.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática bristled. “Maya! You no defy your mother!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya whined. “I’m not defying you, Mom. I just don’t wanna go. You can sell without me.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Simpática was filled with a burning resolve, even by her standards, and at ten a.m., they collected their samples and brochures and walked to Coronel and San Pascual Streets and climbed onto a city bus that lumbered across town to the East Side. They got off at Salinas and Carpinteria, at the base of the Santa Ynez mountains, walked to Canada Street and began their venture.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They made their way up and down several streets, not missing a single house. As Simpática tried to coerce people to buy her product, Maya waited quietly, gazing at the lawns, the streets, and the Ss on the chimneys. Many doors would not open; others just enough for someone to say, “We’re not interested.” Sometimes Maya noticed a shade or curtain pulling back so someone could watch them. But several Spanish-speaking women did open their doors. Maya would cringe because her mother was so disorganized and had no sales pitch, saying “This powder is good! It make me and my daughter strong!” though neither Maya nor her mother appeared very strong. When asked factual questions, Simpática would go off on tangents about unrelated matters, Maya often interceding to clarify and bring the conversation back to earth. At each house, Simpática instructed Maya to leave a sales brochure including their name and phone number, even though their phone was long-since disconnected.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As they approached a house on Mason Street, someone called them from behind. It was Brian Maguire, a family friend two years older than Maya. He was smallish, had neatly combed red hair, a round, pale face with freckles, blue eyes, and a muscular build. He and Maya had known each other since early childhood, spending birthdays and holidays together. He was like a brother to Maya, and sometimes a protector.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“C’mon, le’s go,” Simpática urged.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Just a minute,” Maya said. “I want to talk to Brian.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As Simpática continued up the walk, Brian asked Maya, “What are you guys doing?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Selling Albin,” she moaned. “I hate it.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What is Albin?” he said.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Protein powder. It’s supposed to make you healthy and give you more energy.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian pondered this.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom thinks she can make money selling it but she isn’t making any. Hardly anyone wants to buy it, at least from her.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why are you going along?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya looked defeated. “She’s making me. I’m grounded.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They heard a door shut and realized Simpática had been let inside.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian smiled coyly. “Wanna go for a little walk?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya weighed the significance of this, then impulsively said, “Okay.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They began walking up Mason Street away from the house but heard the door open and shut again and Simpática now conversing with someone outside. Maya froze in her tracks.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian’s smile widened. “You wanna disappear?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She looked at him. This would be blasphemy. But even though she knew her mother could see her, resumed her stride. &nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She gasped and her step faltered, then she did something she may have never done before: she openly defied her mother, keeping pace with Brian. She told herself they could pretend they didn’t hear her.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her mother’s roar was unnerving. Brian took three more steps, then succumbed to his panic and broke into a run, Maya reflexively staying with him. They ran for two blocks until they reached the bridge just before Alameda Padre Serra at the base of the mountains. &nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Down there!” Brian yelled, and they scaled down the ravine, trampling weeds and rolling rocks. At the bottom, they moved into the darkness under the bridge, certain Simpática would not find them there. Hunkered quietly, they heard the creek gurgle and saw one another’s silhouettes but little more.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“We’ll just stay here for a minute till we’re sure she’s gone,” Maya said. “She’ll give up and leave in a couple minutes.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian sighed, then leaned back leisurely and folded his arms above his head. The breezes drifted lazily, rustling the tall grass and cooling their perspiration. From time to time, they heard a car or bicycle passing overhead. Maya turned to Brian to suggest they get going again, but the words were just forming on her lips when she was jolted.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She looked up in panic. Simpática was only a few feet away on the bridge above them.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“How did she know we were here?” Brian asked.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undergrowth crackled as they shifted to get a glimpse of her.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You come, Maya!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian whispered, “Do you think she knows we’re under here or just that we’re nearby?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya brought a finger to her lips. “Shhh.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Simpática kept yelling until her voice was hoarse. Then they heard a man ask her who she was looking for. It was quiet for a minute, then he said, “I don’t see anyone down there. Are you sure someone’s there?” Maya imagined the wild expression on her mother’s face when she insisted, “I see her! She is there!” Then the man got tired of this and left.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brian gazed to the creek stretching into the distance. “Maybe if we sneak off that way, she won’t see us.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya considered this.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“It’s better than sitting here all day,” he reasoned.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They made their way through the tall grass away from Simpática. If they could make it just a few more yards, they’d reach tall grass and be free. But if Simpática crossed to their side of the bridge, they’d be in plain sight. They continued cautiously, then were jolted again.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” Simpática shrieked. “The Padre, he does not forgive you!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya turned. Simpática was at the railing gazing directly at them.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya! You come here now!” She pointed to a spot on the street next to her. “You stop sinning, Maya! Stop sinning!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya shouted back, “I’m not sinning, Mom!” Then she and Brian bolted off, toppling rocks and thrashing through weeds, eventually breaking into laughter, their faces contorted, their lungs aching. They ran like outlaws, dust rising and settling on their sweaty skin. When they’d gone a long way, they stopped and rested below Yanonali Street, their hearts pounding. In a minute it was very still, the only sound being an occasional cricket. Their breathing slowed and their sweat dried and they became almost drowsy. Then they heard Simpática again.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya lurched, thumping Brian in the jaw so he bit his tongue deeply and tasted the salty blood in his mouth.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“We gotta go!” she urged.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They scaled up the incline and ran up Yanonali Street all the way to Soledad. “This way,” Brian said, pointing. “We can hide at my house!”
 
 END
 
-## Chapter 3
+## Chapter 3: EARLY AUGUST
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you continue up State Street four blocks beyond where the historical parade ended at Micheltorena, then head left onto Islay - its name derived from the red berry plant that once grew there and was consumed by the Chumash people - you will enter the west side of town, a place of cracked, uneven sidewalks, bumpy asphalt streets, old one- and two-story wood frame homes, newer upscale apartments, and lots of trees.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At seven a.m. at a small apartment complex on Islay Street, Mike Stanning clunked his front door shut, double-checked the lock, and took the front stairs down to the sidewalk. As he moved briskly up Islay toward State, the morning chill was particularly sharp and in the distance the Santa Ynez mountains were dark and brooding. Though he always walked to work, he was grateful to be doing so today. He’d spent a horrible night tossing and turning and needed to burn off some energy.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He and his wife Diane had separated the day before, she now staying with a friend on San Pascual while they sorted things out. This was a jolt. He thought they would never separate. She was beautiful, intelligent, socially adept, and everything he wanted in a woman. But conflicts had emerged, then became insurmountable until he had to concede something he thought he never would: they were not a good match after all. But the most painful part was how eager she was to leave the marriage.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was a young, healthy, good looking man whose journey through life had been smooth and unchallenged up to now, leaving him untested for the inevitable pitfalls and failures to come. He was born in LA into an upper-middle-class family sprinkled with doctors, attorneys, and financial wizards. Success was a way of life in his world and anything less deemed lacking, leaving him bewildered by what was happening now.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He turned onto State and saw the ocean in the distance, so bright and shimmering. He reflected on how pleasant it is to live in such a beautiful city even if that beauty doesn’t always translate into happiness. He tried to convince himself he didn’t have to be depressed. He still had a decent job, after all, and made enough to pay his bills. Maybe as a single man he could start a new life, maybe do some traveling. But his mood kept flipflopping. He wondered who he would have dinner with tonight, or who he would talk to, or who would be his confidant.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He turned left onto Figueroa and passed the white courthouse, so bright and imposing. As he approached the welfare office, a conviction settled over him. He would go on with work as if nothing had happened. People would marvel at how well he handled this transition. He pushed the glass doors open and entered the building, still deserted at this hour. His steps echoed through the corridor as he flipped on each light switch he passed. At the end of the hall, he climbed the stairs and reversed direction in the upstairs hall until he reached the AFCD - Aid to Families with Dependent Children - unit and stepped inside.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was grateful to be at work, a welcome refuge from his personal woes, but when he assessed the paperwork before him, felt a black grief. He gazed out the window to the District Attorney’s office across the parking lot, mesmerized by how brightly it glowed in the morning sun. He sat still, barely breathing. This is going to be a rough day, he realized as he began leafing through the paperwork.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trisha Cathcart bustled into the room and chirped, “Good morning.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Good morning!” he returned with unexpected enthusiasm, surprised by how grateful he was to see her. “How are you today, Trish?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She was mid-forties, salt-and-pepper hair, crinkly skin, and vacant eyes.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You look bright and cheerful this morning,” she said.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Do I?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes.” She smiled her condescending smile. “Did you and your little wifey have a nice weekend together?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Not really. I’ve had better.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“So have I,” she moaned. “Tim promised to take me to the Santa Barbara Symphony on Saturday, but when the time came, he said he didn’t want to go. He said, ‘I work all week and by the weekend I’m exhausted. I don’t want to pay to see some long-haired musicians on my only night off.’”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“That’s a dirty trick,” Mike said, feeling genuine empathy.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“So, I said to him, ‘Why didn’t you tell me before so I didn’t get my hopes up?’”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“And what did he say to that?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“He said he didn’t tell me because he didn’t want to hear me moaning about it all week. So, I said if he didn’t want to hear me moan this week, he could give me the money he would have spent for the symphony and let me buy something for myself.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This was more conversation than Mike usually had with Trisha but today he was comforted by her energy. Then as others trudged into the room, all women, and phones began ringing and conversations springing up, he dug into work. He had a hundred-plus budgets to complete this week and three renewals. Soon he was lost in numbers, calculations, and welfare regulations.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But he was rankled and preoccupied and had trouble focusing on work. At noon, he wandered up Santa Barbara Street and stopped at Alameda Park to eat lunch. Sitting on the lawn, he took in the graceful palms and the green gazebo and remembered being here with Diane. A young boy rode past on a bicycle, looking so lonely and sad. After eating only half his sandwich, he was full and got up to leave. Walking back to the office, he passed the building where Diane worked and trained his eyes forward to assure they didn’t have an awkward encounter.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After lunch, he continued struggling to focus on work. At two thirty, his phone rang. It was Maya Pareto. He slumped in his chair. He wasn’t up to dealing with her today.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mike, my mom’s really angry. She’s trying to hit me and I’m afraid she’s going to hurt me.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He considered how to respond. This sounded like a domestic, not a financial matter, rightfully the purview of a social worker. But he felt obligated to respond. And the social worker, Gary Inglehoff, did not have the expertise or sensitivity to handle a challenging case like this. Better that he, Mike, take it.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Where are you calling from? Are you safe?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yeah. I’m at a phone booth a little way from the apartment. But I can see her from here and she’s still really mad.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Do you think she’s trying to hurt you?” he groped. “Has she done anything really dangerous?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She threw some things and slammed the bathroom door on me. It didn’t hurt but it could have.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Did you call Luz?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yeah, I talked to her. But I can’t always stay with her when Mom goes off. Something’s got to happen with my mom. Things can’t keep going on like this.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was impressed with this insight.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay. How do you think I can help?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maybe if you talked to her. If you could tell her she needs to act better and don’t be so mean all the time. Maybe it would help.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He rolled his eyes at the absurdity of this but was flattered that she turned to him in a time of crisis.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay. I’ll be there in fifteen minutes.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As he drove up, she stood forlornly at the edge of the parking lot. She didn’t appear physically injured or particularly distressed. But she looked different, changed from the helpless little waif he knew. Her facial features were harder and more defined as if she’d suddenly matured by several years. Her eyes had a hardness that could be either anger or resolve, but definitely not her usual quiet resignation.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You okay?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yeah.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Where’s your mom?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think she’s still in the apartment. She was there when I called you.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“So, what started this?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom and I have been arguing a lot since Fiesta but I thought things were getting better. Then today I was just sitting in my bedroom and she yelled for me to come into the other room. When I got there, she threw a frying pan and a box of Albin at me, then tried to hit me with the rolling pin. She broke the window in my room. See?” She pointed to a broken window on the second floor.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“But you don’t know why she’s mad?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Well, like I said, we’ve been arguing a lot since Fiesta.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Did something happen at Fiesta?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Well, you know I was taking flamenco lessons at the rec center?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes,” he nodded.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“And I was chosen to dance on the Sanchez family float. There were five of us. I knew Mom wasn’t happy about my lessons or being in the parade, but she was still letting me do it. Then on the day of the parade, I was in my flamenco dress and just getting on the float when she started yelling and screaming and yanked me off and made me go home and miss the parade. Right in front of everybody!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his experience with Simpática, this was not out of character.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“And when we got home, she burned my Fiesta dress!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She burned it?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes! She took it outside behind the apartment and soaked it in lighter fluid and set it on fire!” The veins in her neck were bulging. “She was screaming and said I could never be in any parade and never take dance lessons again! And the dress wasn’t mine! It was loaned to me by the rec center. Then she cut up the dancing shoes I borrowed and made me throw them away. And a few days later, she went to the rec center and told Mrs. Monroe I lost the dress and she didn’t want them to give me dance lessons anymore.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh, Maya, I’m sorry,” he said, then looked uneasily toward the apartment. “Do you think she’ll talk to me?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think so.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He steeled himself. “Alright. Let’s go.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As they walked up the slope to the apartment, he wondered if he was doing the right thing. He was, after all, the eligibility worker, not the social worker. As they rounded the side of the building, they saw Simpática’s silhouette on the railing looking like a bird of prey, her eyes boring through them. Though she was never cheerful, today her face was drawn with dark circles under her eyes and her mouth hard set.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Hello,” he offered awkwardly as he and Maya climbed the stairs, but she turned and went back into the apartment. They followed her in and found her on the couch. Speaking in Spanish, he said, “Hello, Simpática. How are you?” but felt his voice wilt under her glare. “Maya tells me that you two are having an argument. I hope that we may sit down and discuss the disagreement. Maybe when we talk, we will all understand better.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When she said nothing, he was unsure how to proceed. He didn’t want to provoke her but wasn’t sure how to avoid doing exactly that.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya calls me because you and her have a dispute. She tells me you are very angry. She wishes that I help the two of you stop arguing.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Shheees bad,” Simpática growled. “Very bad girl!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He listened.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She does not obey hore mother! She disobeys.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No, I don’t,” Maya objected.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya, yes you do!” Simpática roared, then they both turned to Mike.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“In what way does Maya misbehave?” he asked, still in Spanish.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She does not listen to hore mother. She disobeys me. She does not respect hore mother.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom, I respect you,” Maya protested. “I do respect you.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” Simpática shouted. “You don’ listen to your mother!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“But I do,” Maya whined. “I do listen to you, Mom. I do do what you tell me.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike raised his hands. “Un momento! Dejame hablar!” Let me speak.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To his surprise, they both looked at him and waited.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What I wish to know is what it was that made you angry today, Simpática. Why are you and Maya having this dispute?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática glared at her daughter. “We sell the powder and Maya runs away! With the boy! She runs and runs from her mother! I say, ‘Come back, Maya!,’ but she laughs and runs away! She is evil!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike turned to Maya for an explanation.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She made me go door to door with her selling protein powder to punish me for being in the parade. I went for a few days, but one day we saw my friend Brian and he and I ran off and hid from Mom.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática shouted, “You are evil!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike continued in Spanish. “Okay, Simpática. And Maya tells me you were angry that she was going to be in the parade?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática gazed dumbly back at him.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Did Maya make you angry at the parade?” he prompted.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Tell him,” Maya said. “Tell him why you didn’t want me to dance on the Sanchez float. I still don’t know myself.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática’s eyes cleared. “Sanchez is evil!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“See? That’s what she said to me.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why is Sanchez evil?” Mike asked.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her eyes got large. “He is rich! Much money! And evil!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike was bewildered. “Did he do something bad to you?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática would not elaborate. “He is evil! He sleeps with this one and that one!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike turned to Maya for an explanation, but she just shrugged. “Why are you angry at Mr. Sanchez?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rather than answer, Simpática fell to her knees and clasped her hands to her chest, then began praying aloud in Spanish. “Jesus, please forgive my daughter Maya who lies to her mother. Please do not let my daughter go to hell, Jesus, because I love her.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh, Mom, stop,” Maya said.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Simpática continued, lapsing back and forth between English and Spanish, her voice rising and falling. Then when she realized she was being ignored, she crawled to Maya’s side and hugged her around the waist. “You are my baby, Maya. I lauve you. You are my baby. Don’ tell lies. The Padre, Maya. The Padre.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By now Mike was certain he would not accomplish anything here. He considered leaving but saw the tension on Maya’s face and remembered it was she, after all, who called him for help. He decided to give it ten more minutes.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Wait, Simpática. Please sit down. I wish to ask a question.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She looked at him.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“That you sit on the couch? That we talk?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes,” she nodded, the aloof expression returned and sat on the couch.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With gathering confidence, he said, “Simpática, I have many welfare clients, but I consider you and Maya to be my best. You are friends. I enjoy speaking with you.” At least he had her attention so far. “What I like best is that you are a good mother to Maya. I see many mothers who do not take care of their children. Many mothers let their children go hungry while they go out and have fun.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática was still listening, though he knew he better get to the point.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Between you and Maya I know there is much love. Maya called me today because she loves you. And she called because there is a problem between you two and she wishes that it be solved. She does not wish to have difficulties with her mother. She loves you very much. She has told me many times.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática’s eyes dampened. “Yes,” she muttered.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now encouraged, he said, “Many times when children reach the age of thirteen or fourteen, like Maya, when they are in junior high, they begin to feel more like an older person as if they are no longer a child. This is normal. And many times, the parents and the children have disagreements. Older children often wish to be independent of their parents, and that is part of growing up. I have many families where the children wish to be adults and the parents still wish to control them. Some of them fight so much! Sometimes I must go to their houses to help.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surprisingly, he still had her attention.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I believe this is the problem between Maya and you. Maya is older now and wishes to have more freedom. She wishes to live her own life. She does not want a mother all the time.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whatever Simpática gathered from his words, the message was clear: he was threatening to take Maya away. She ran to the front door and slammed it shut.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No!” she shouted. “She’s my baby! She mus’ obey! Soy tu madre, Maya!” I am your mother.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya turned to him helplessly. “See?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undaunted, Mike continued. “Simpática, I do not wish to take Maya from you. This is her home. I only wish to know what it is that troubles you. Why were you angry with Maya today? Is there some way I may help?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But he was only stoking the flames, the situation worse than when he arrived.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” Simpática pleaded. “Why you don’ kill me! Why you don’ kill me with a knife!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As Mike and Maya watched, she ran to the kitchen and opened a drawer.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What’s she doing?” he asked.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suddenly she wielded a large butcher knife. “Wait a minute,” Mike shouted, abandoning the Spanish. “Give me the knife, Simpática. Put down the knife.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But she fell to her knees and pressed the point against her chest. “Maya. Apuñalame en la corazón! Mate a tu mamá!” Stab me in the heart. Kill your mother.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh, stop it,” Maya said. “Kill yourself.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike looked at the girl in disbelief. How could she say that?
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Simpática, give me the knife,” he demanded.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But she ignored him and crawled to Maya’s side, handing her the knife. “Here Maya. You stab your mother! Kill me, Maya. Kill me!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refusing to take the knife, Maya said, “No, Mom. I’m not going to kill you.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seeing his chance, Mike lunged forward and seized the knife. “No knives!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her big play over, Simpática gazed vacantly to the floor. “You kill your mother, Maya. You kill hore. You do not lauve hore.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes, I do, Mom. I love you. I really do love you. But I just get mad when you’re mean to me. You can’t always be so mean to me.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática stood and stalked to the front door and yanked it open. “Okay, Maya! You go! This is not your casa!”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay,” Maya said coolly. “You don’t want me here anyway.” She stood and walked out the door, then her footsteps clomped down the outer stairs.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike wasn’t sure what to do now. He thought of the broken figure next to him and couldn’t imagine the horror of being her, or of living with her. Finally, knowing not what else to do, he stood and said, “Okay, Simpática. I will leave now.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back in the courtyard, he said to Maya, “Can I take you to Luz’s house? Maybe you could stay there for a couple days till your mother’s in a better mood.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gazing past him, she said, “No. No matter how long I’m gone, she’ll be the same when I get back.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As they walked down the embankment to his car, she said, “Do you ever wish you were never born? Does life ever seem like a cruel joke?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He shifted his weight uncomfortably. “Yeah, I guess it does sometimes.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Everyone else is having fun and enjoying their lives, but whenever my life starts to go well, it turns bad.” The traffic streamed back and forth on Cliff Drive above them. “My mom makes me feel crazy. She won’t let me go outside on my own. She thinks I’m going to run away or take drugs. But I never do those things. And she makes me go with her to sell Albin stuff door-to-door.” She turned to him. “I don’t want to always do that. I want to see my friends. I want to live a normal life.” Tears were running down her cheeks. “She knew how much I wanted to be in the parade. I’ve wanted to be in the Fiesta Parade since I was a little girl. She stopped me just to be mean!” She looked at him somberly. “What’s wrong with my mom?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I don’t know,” he said. “Maybe someone was mean to her when she was young. Maybe she’s punishing you for what others did to her. Maybe she thinks you’re getting too independent and might leave her.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think that’s it,” she agreed. “But I can’t take it anymore.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were silent, then Mike said, “Okay, I’m gonna go. You sure I can’t take you to Luz’s house?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She stared vacantly. “What’s gonna happen to her? Who’s gonna take care of her if I leave?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He considered this, wondering how his own life had become so entangled in such an impossible situation.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I don’t know.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After another pause, he said, “I’m leaving. What are you gonna do?”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I’m staying here.”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As he drove away, he saw her in the rear-view mirror standing motionless. He was still unsure if he was doing the right thing. He kept imagining Simpática rushing at Maya and stabbing her when she returned to the apartment. He couldn’t imagine returning to such a bleak, depressing place.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At seven a.m. at a small apartment complex on Islay Street, Mike Stanning clunked his front door shut, double-checked the lock, and took the front stairs down to the sidewalk. As he moved briskly up Islay toward State, the morning chill was particularly sharp and in the distance the Santa Ynez mountains were dark and brooding. Though he always walked to work, he was grateful to be doing so today. He’d spent a horrible night tossing and turning and needed to burn off some energy.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He and his wife Diane had separated the day before, she now staying with a friend on San Pascual while they sorted things out. This was a jolt. He thought they would never separate. She was beautiful, intelligent, socially adept, and everything he wanted in a woman. But conflicts had emerged, then became insurmountable until he had to concede something he thought he never would: they were not a good match after all. But the most painful part was how eager she was to leave the marriage.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was a young, healthy, good looking man whose journey through life had been smooth and unchallenged up to now, leaving him untested for the inevitable pitfalls and failures to come. He was born in LA into an upper-middle-class family sprinkled with doctors, attorneys, and financial wizards. Success was a way of life in his world and anything less deemed lacking, leaving him bewildered by what was happening now.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He turned onto State and saw the ocean in the distance, so bright and shimmering. He reflected on how pleasant it is to live in such a beautiful city even if that beauty doesn’t always translate into happiness. He tried to convince himself he didn’t have to be depressed. He still had a decent job, after all, and made enough to pay his bills. Maybe as a single man he could start a new life, maybe do some traveling. But his mood kept flipflopping. He wondered who he would have dinner with tonight, or who he would talk to, or who would be his confidant.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He turned left onto Figueroa and passed the white courthouse, so bright and imposing. As he approached the welfare office, a conviction settled over him. He would go on with work as if nothing had happened. People would marvel at how well he handled this transition. He pushed the glass doors open and entered the building, still deserted at this hour. His steps echoed through the corridor as he flipped on each light switch he passed. At the end of the hall, he climbed the stairs and reversed direction in the upstairs hall until he reached the AFCD - Aid to Families with Dependent Children - unit and stepped inside.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was grateful to be at work, a welcome refuge from his personal woes, but when he assessed the paperwork before him, felt a black grief. He gazed out the window to the District Attorney’s office across the parking lot, mesmerized by how brightly it glowed in the morning sun. He sat still, barely breathing. This is going to be a rough day, he realized as he began leafing through the paperwork.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trisha Cathcart bustled into the room and chirped, “Good morning.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Good morning!” he returned with unexpected enthusiasm, surprised by how grateful he was to see her. “How are you today, Trish?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She was mid-forties, salt-and-pepper hair, crinkly skin, and vacant eyes.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You look bright and cheerful this morning,” she said.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Do I?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes.” She smiled her condescending smile. “Did you and your little wifey have a nice weekend together?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Not really. I’ve had better.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“So have I,” she moaned. “Tim promised to take me to the Santa Barbara Symphony on Saturday, but when the time came, he said he didn’t want to go. He said, ‘I work all week and by the weekend I’m exhausted. I don’t want to pay to see some long-haired musicians on my only night off.’”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“That’s a dirty trick,” Mike said, feeling genuine empathy.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“So, I said to him, ‘Why didn’t you tell me before so I didn’t get my hopes up?’”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“And what did he say to that?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“He said he didn’t tell me because he didn’t want to hear me moaning about it all week. So, I said if he didn’t want to hear me moan this week, he could give me the money he would have spent for the symphony and let me buy something for myself.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This was more conversation than Mike usually had with Trisha but today he was comforted by her energy. Then as others trudged into the room, all women, and phones began ringing and conversations springing up, he dug into work. He had a hundred-plus budgets to complete this week and three renewals. Soon he was lost in numbers, calculations, and welfare regulations.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But he was rankled and preoccupied and had trouble focusing on work. At noon, he wandered up Santa Barbara Street and stopped at Alameda Park to eat lunch. Sitting on the lawn, he took in the graceful palms and the green gazebo and remembered being here with Diane. A young boy rode past on a bicycle, looking so lonely and sad. After eating only half his sandwich, he was full and got up to leave. Walking back to the office, he passed the building where Diane worked and trained his eyes forward to assure they didn’t have an awkward encounter.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After lunch, he continued struggling to focus on work. At two thirty, his phone rang. It was Maya Pareto. He slumped in his chair. He wasn’t up to dealing with her today.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mike, my mom’s really angry. She’s trying to hit me and I’m afraid she’s going to hurt me.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He considered how to respond. This sounded like a domestic, not a financial matter, rightfully the purview of a social worker. But he felt obligated to respond. And the social worker, Gary Inglehoff, did not have the expertise or sensitivity to handle a challenging case like this. Better that he, Mike, take it.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Where are you calling from? Are you safe?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yeah. I’m at a phone booth a little way from the apartment. But I can see her from here and she’s still really mad.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Do you think she’s trying to hurt you?” he groped. “Has she done anything really dangerous?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She threw some things and slammed the bathroom door on me. It didn’t hurt but it could have.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Did you call Luz?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yeah, I talked to her. But I can’t always stay with her when Mom goes off. Something’s got to happen with my mom. Things can’t keep going on like this.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was impressed with this insight.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay. How do you think I can help?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maybe if you talked to her. If you could tell her she needs to act better and don’t be so mean all the time. Maybe it would help.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He rolled his eyes at the absurdity of this but was flattered that she turned to him in a time of crisis.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay. I’ll be there in fifteen minutes.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As he drove up, she stood forlornly at the edge of the parking lot. She didn’t appear physically injured or particularly distressed. But she looked different, changed from the helpless little waif he knew. Her facial features were harder and more defined as if she’d suddenly matured by several years. Her eyes had a hardness that could be either anger or resolve, but definitely not her usual quiet resignation.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You okay?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yeah.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Where’s your mom?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think she’s still in the apartment. She was there when I called you.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“So, what started this?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom and I have been arguing a lot since Fiesta but I thought things were getting better. Then today I was just sitting in my bedroom and she yelled for me to come into the other room. When I got there, she threw a frying pan and a box of Albin at me, then tried to hit me with the rolling pin. She broke the window in my room. See?” She pointed to a broken window on the second floor.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“But you don’t know why she’s mad?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Well, like I said, we’ve been arguing a lot since Fiesta.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Did something happen at Fiesta?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Well, you know I was taking flamenco lessons at the rec center?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes,” he nodded.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“And I was chosen to dance on the Sanchez family float. There were five of us. I knew Mom wasn’t happy about my lessons or being in the parade, but she was still letting me do it. Then on the day of the parade, I was in my flamenco dress and just getting on the float when she started yelling and screaming and yanked me off and made me go home and miss the parade. Right in front of everybody!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his experience with Simpática, this was not out of character.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“And when we got home, she burned my Fiesta dress!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She burned it?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes! She took it outside behind the apartment and soaked it in lighter fluid and set it on fire!” The veins in her neck were bulging. “She was screaming and said I could never be in any parade and never take dance lessons again! And the dress wasn’t mine! It was loaned to me by the rec center. Then she cut up the dancing shoes I borrowed and made me throw them away. And a few days later, she went to the rec center and told Mrs. Monroe I lost the dress and she didn’t want them to give me dance lessons anymore.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh, Maya, I’m sorry,” he said, then looked uneasily toward the apartment. “Do you think she’ll talk to me?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think so.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He steeled himself. “Alright. Let’s go.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As they walked up the slope to the apartment, he wondered if he was doing the right thing. He was, after all, the eligibility worker, not the social worker. As they rounded the side of the building, they saw Simpática’s silhouette on the railing looking like a bird of prey, her eyes boring through them. Though she was never cheerful, today her face was drawn with dark circles under her eyes and her mouth hard set.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Hello,” he offered awkwardly as he and Maya climbed the stairs, but she turned and went back into the apartment. They followed her in and found her on the couch. Speaking in Spanish, he said, “Hello, Simpática. How are you?” but felt his voice wilt under her glare. “Maya tells me that you two are having an argument. I hope that we may sit down and discuss the disagreement. Maybe when we talk, we will all understand better.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When she said nothing, he was unsure how to proceed. He didn’t want to provoke her but wasn’t sure how to avoid doing exactly that.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya calls me because you and her have a dispute. She tells me you are very angry. She wishes that I help the two of you stop arguing.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Shheees bad,” Simpática growled. “Very bad girl!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He listened.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She does not obey hore mother! She disobeys.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No, I don’t,” Maya objected.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya, yes you do!” Simpática roared, then they both turned to Mike.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“In what way does Maya misbehave?” he asked, still in Spanish.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She does not listen to hore mother. She disobeys me. She does not respect hore mother.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom, I respect you,” Maya protested. “I do respect you.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” Simpática shouted. “You don’ listen to your mother!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“But I do,” Maya whined. “I do listen to you, Mom. I do do what you tell me.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike raised his hands. “Un momento! Dejame hablar!” Let me speak.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To his surprise, they both looked at him and waited.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What I wish to know is what it was that made you angry today, Simpática. Why are you and Maya having this dispute?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática glared at her daughter. “We sell the powder and Maya runs away! With the boy! She runs and runs from her mother! I say, ‘Come back, Maya!,’ but she laughs and runs away! She is evil!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike turned to Maya for an explanation.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“She made me go door to door with her selling protein powder to punish me for being in the parade. I went for a few days, but one day we saw my friend Brian and he and I ran off and hid from Mom.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática shouted, “You are evil!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike continued in Spanish. “Okay, Simpática. And Maya tells me you were angry that she was going to be in the parade?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática gazed dumbly back at him.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Did Maya make you angry at the parade?” he prompted.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Tell him,” Maya said. “Tell him why you didn’t want me to dance on the Sanchez float. I still don’t know myself.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática’s eyes cleared. “Sanchez is evil!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“See? That’s what she said to me.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why is Sanchez evil?” Mike asked.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her eyes got large. “He is rich! Much money! And evil!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike was bewildered. “Did he do something bad to you?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática would not elaborate. “He is evil! He sleeps with this one and that one!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike turned to Maya for an explanation, but she just shrugged. “Why are you angry at Mr. Sanchez?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rather than answer, Simpática fell to her knees and clasped her hands to her chest, then began praying aloud in Spanish. “Jesus, please forgive my daughter Maya who lies to her mother. Please do not let my daughter go to hell, Jesus, because I love her.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh, Mom, stop,” Maya said.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Simpática continued, lapsing back and forth between English and Spanish, her voice rising and falling. Then when she realized she was being ignored, she crawled to Maya’s side and hugged her around the waist. “You are my baby, Maya. I lauve you. You are my baby. Don’ tell lies. The Padre, Maya. The Padre.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By now Mike was certain he would not accomplish anything here. He considered leaving but saw the tension on Maya’s face and remembered it was she, after all, who called him for help. He decided to give it ten more minutes.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Wait, Simpática. Please sit down. I wish to ask a question.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She looked at him.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“That you sit on the couch? That we talk?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes,” she nodded, the aloof expression returned and sat on the couch.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With gathering confidence, he said, “Simpática, I have many welfare clients, but I consider you and Maya to be my best. You are friends. I enjoy speaking with you.” At least he had her attention so far. “What I like best is that you are a good mother to Maya. I see many mothers who do not take care of their children. Many mothers let their children go hungry while they go out and have fun.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática was still listening, though he knew he better get to the point.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Between you and Maya I know there is much love. Maya called me today because she loves you. And she called because there is a problem between you two and she wishes that it be solved. She does not wish to have difficulties with her mother. She loves you very much. She has told me many times.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática’s eyes dampened. “Yes,” she muttered.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now encouraged, he said, “Many times when children reach the age of thirteen or fourteen, like Maya, when they are in junior high, they begin to feel more like an older person as if they are no longer a child. This is normal. And many times, the parents and the children have disagreements. Older children often wish to be independent of their parents, and that is part of growing up. I have many families where the children wish to be adults and the parents still wish to control them. Some of them fight so much! Sometimes I must go to their houses to help.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surprisingly, he still had her attention.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I believe this is the problem between Maya and you. Maya is older now and wishes to have more freedom. She wishes to live her own life. She does not want a mother all the time.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whatever Simpática gathered from his words, the message was clear: he was threatening to take Maya away. She ran to the front door and slammed it shut.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No!” she shouted. “She’s my baby! She mus’ obey! Soy tu madre, Maya!” I am your mother.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maya turned to him helplessly. “See?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undaunted, Mike continued. “Simpática, I do not wish to take Maya from you. This is her home. I only wish to know what it is that troubles you. Why were you angry with Maya today? Is there some way I may help?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But he was only stoking the flames, the situation worse than when he arrived.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maya!” Simpática pleaded. “Why you don’ kill me! Why you don’ kill me with a knife!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As Mike and Maya watched, she ran to the kitchen and opened a drawer.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What’s she doing?” he asked.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suddenly she wielded a large butcher knife. “Wait a minute,” Mike shouted, abandoning the Spanish. “Give me the knife, Simpática. Put down the knife.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But she fell to her knees and pressed the point against her chest. “Maya. Apuñalame en la corazón! Mate a tu mamá!” Stab me in the heart. Kill your mother.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Oh, stop it,” Maya said. “Kill yourself.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike looked at the girl in disbelief. How could she say that?
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Simpática, give me the knife,” he demanded.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But she ignored him and crawled to Maya’s side, handing her the knife. “Here Maya. You stab your mother! Kill me, Maya. Kill me!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refusing to take the knife, Maya said, “No, Mom. I’m not going to kill you.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seeing his chance, Mike lunged forward and seized the knife. “No knives!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her big play over, Simpática gazed vacantly to the floor. “You kill your mother, Maya. You kill hore. You do not lauve hore.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes, I do, Mom. I love you. I really do love you. But I just get mad when you’re mean to me. You can’t always be so mean to me.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática stood and stalked to the front door and yanked it open. “Okay, Maya! You go! This is not your casa!”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay,” Maya said coolly. “You don’t want me here anyway.” She stood and walked out the door, then her footsteps clomped down the outer stairs.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike wasn’t sure what to do now. He thought of the broken figure next to him and couldn’t imagine the horror of being her, or of living with her. Finally, knowing not what else to do, he stood and said, “Okay, Simpática. I will leave now.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back in the courtyard, he said to Maya, “Can I take you to Luz’s house? Maybe you could stay there for a couple days till your mother’s in a better mood.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gazing past him, she said, “No. No matter how long I’m gone, she’ll be the same when I get back.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As they walked down the embankment to his car, she said, “Do you ever wish you were never born? Does life ever seem like a cruel joke?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He shifted his weight uncomfortably. “Yeah, I guess it does sometimes.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Everyone else is having fun and enjoying their lives, but whenever my life starts to go well, it turns bad.” The traffic streamed back and forth on Cliff Drive above them. “My mom makes me feel crazy. She won’t let me go outside on my own. She thinks I’m going to run away or take drugs. But I never do those things. And she makes me go with her to sell Albin stuff door-to-door.” She turned to him. “I don’t want to always do that. I want to see my friends. I want to live a normal life.” Tears were running down her cheeks. “She knew how much I wanted to be in the parade. I’ve wanted to be in the Fiesta Parade since I was a little girl. She stopped me just to be mean!” She looked at him somberly. “What’s wrong with my mom?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I don’t know,” he said. “Maybe someone was mean to her when she was young. Maybe she’s punishing you for what others did to her. Maybe she thinks you’re getting too independent and might leave her.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I think that’s it,” she agreed. “But I can’t take it anymore.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were silent, then Mike said, “Okay, I’m gonna go. You sure I can’t take you to Luz’s house?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She stared vacantly. “What’s gonna happen to her? Who’s gonna take care of her if I leave?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He considered this, wondering how his own life had become so entangled in such an impossible situation.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I don’t know.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After another pause, he said, “I’m leaving. What are you gonna do?”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I’m staying here.”
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As he drove away, he saw her in the rear-view mirror standing motionless. He was still unsure if he was doing the right thing. He kept imagining Simpática rushing at Maya and stabbing her when she returned to the apartment. He couldn’t imagine returning to such a bleak, depressing place.
 
 END
