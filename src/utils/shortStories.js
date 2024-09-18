@@ -24,14 +24,14 @@ export const shortStories = [
         title: "Hamlin Street",
         date: "2024-04-04",
         description: "A young boy deals with his parents' separation and his father's absence.",
-        path: "/stories/story_4.md",
+        path: "/stories/hamlin_street.md",
         genre: "family-matters"
     },
     {
         title: "Promises Broken, Promises Kept",
         date: "2024-04-04",
         description: "A man's beloved grandmother is hospitalized for a broken ankle. Though her ankle is healing, something strange is going on.",
-        path: "/stories/story_4.md",
+        path: "/stories/promises_broken_promises_kept.md",
         genre: "catchall"
     },
     {
