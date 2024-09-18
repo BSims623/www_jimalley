@@ -1,7 +1,24 @@
 import styles from "@/styles/components/aboutSectionDesktop.module.scss";
 import ExportedImage from "next-image-export-optimizer";
+import DesktopPhotoDisplay from "./DesktopPhotoDisplay";
 
 export default function AboutSectionDesktop () {
+    const photos = [
+        {
+            src: "/images/about/sunset.jpg",
+            alt: "A picture of a sunset."
+        },
+        {
+            src: "/images/about/jim_at_computer.jpg",
+            alt: "A picture of Jim Alley writing on his computer."
+        },
+        {
+            src: "/images/about/trail.jpg",
+            alt: "A picture of a dirt walking trail with green grass on both sides."
+        }
+    ];
+
+
     return (
         <div className={styles.content_container}>
             <section className={styles.upper_about_section}>
@@ -47,7 +64,8 @@ export default function AboutSectionDesktop () {
                     my life.
                 </p>
             </section>
-            <div className={styles.images_container}>
+            <DesktopPhotoDisplay photos={photos}/>
+            {/* <div className={styles.images_container}>
                 <div className={`img_container ${styles.img_container}`}>
                     <ExportedImage src={"/images/about/sunset.jpg"} fill={true} alt="About image." />
                 </div>
@@ -57,7 +75,7 @@ export default function AboutSectionDesktop () {
                 <div className={`img_container ${styles.img_container}`}>
                     <ExportedImage src={"/images/about/trail.jpg"} fill={true} alt="About image." />
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 }

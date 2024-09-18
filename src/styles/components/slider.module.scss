@@ -1,0 +1,43 @@
+@import '../abstracts/variables.scss';
+
+.container {
+    width: 100%;
+    max-width: calc(100vw - 40px);
+
+    @media (min-width: $screen-md) {
+        display: none;
+    }
+}
+
+.keen_slider__slide {
+    height: calc(100vw - 40px);
+
+    @media (min-width: $screen-md) {
+        display: none;
+    }
+}
+
+.dots_container {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: none;
+    background: $primary-dark;
+}
+
+.dot:hover {
+    cursor: pointer;
+    background: $secondary-dark;
+}
+
+.active {
+    background: $accent;
+}

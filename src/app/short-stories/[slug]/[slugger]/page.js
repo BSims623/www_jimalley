@@ -22,7 +22,7 @@ export default async function Pager({params}) {
 
     return (
         <main className={styles.main}>
-            {pageNumber === 1 && <h1>{story.title}</h1>}
+            {/* {pageNumber === 1 && <h1>{story.title}</h1>} */}
             <MarkdownDisplayPage content={content} />
             {numberOfPages > 1 && <Pagination numberOfPages={numberOfPages} currentPage={pageNumber} story={slug} thePath={'/short-stories'}/>}
             <Link href={`/short-stories`}><button className="btn">Back To All Stories</button></Link>
@@ -53,7 +53,6 @@ export async function generateStaticParams() {
         slugger,
       }))
     );
-    console.log(paths);
   
     return paths;
 }

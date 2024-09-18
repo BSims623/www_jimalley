@@ -1,0 +1,23 @@
+@import '../abstracts/variables';
+
+.images_container {
+    display: none;
+
+    @media (min-width: $screen-md) {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 30px;
+        background: $gray-300; padding: 20px 30px;    
+    }
+
+    @media (min-width: $screen-lg) {
+        gap: 60px;
+        padding: 40px 60px;    
+    }
+}
+
+.img_container {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+}

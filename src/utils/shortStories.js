@@ -10,14 +10,14 @@ export const shortStories = [
         title: "Black and White",
         date: "2022-02-02",
         description: "A timid schoolgirl endures challenges as one of three black students integrating a Bakersfield elementary school.",
-        path: "/stories/story_2.md",
+        path: "/stories/black_and_white.md",
         genre: "character-based"
     },
     {
         title: "Alone in Paradise",
         date: "2023-03-03",
         description: "A man goes to Hawaii to visit his dying aunt.",
-        path: "/stories/story_3.md",
+        path: "/stories/alone_in_paradise.md",
         genre: "family-matters"
     },
     {
@@ -45,7 +45,7 @@ export const shortStories = [
         title: "OJ, Kareem, and Me",
         date: "2024-04-04",
         description: "An essay about being in college classes with two of the most famous athletes in American history.",
-        path: "/stories/story_4.md",
+        path: "/stories/oj_kareem_and_me.md",
         genre: "essay"
     },
 ]

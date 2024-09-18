@@ -1,8 +1,25 @@
 import styles from "@/styles/pages/shortStories.module.scss";
 import StoryCard from "@/components/StoryCard";
 import { shortStories } from "@/utils/shortStories";
+import DesktopPhotoDisplay from "@/components/DesktopPhotoDisplay";
+import Slider from "@/components/Slider";
 
 export default function ShortStories() {
+  const photos = [
+    {
+      src: "/images/short-stories/jim_by_tree.jpg",
+      alt: "Jim Alley standing next to a tree."
+    },
+    {
+      src: "/images/short-stories/palm_tree.jpg",
+      alt: "A picture of a tall, bushy palm tree."
+    },
+    {
+      src: "/images/short-stories/deborah.jpg",
+      alt: "A portrait of Jim Alley's wife Deborah."
+    }
+  ];
+
   return (
     <main className={styles.main}>
       <div className={styles.content_container}>
@@ -19,6 +36,8 @@ export default function ShortStories() {
             which includes humor, horror, conjectural, and even some fantasy. Six short stories and
             one essay are included here for your reading pleasure. Enjoy!</p>
         </div>
+        <DesktopPhotoDisplay photos={photos} />
+        <Slider photos={photos} />
         <h2 className={styles.genre}>Character-based:</h2>
         <div className={styles.short_stories_container}>
           {shortStories.map((story, index) => {
