@@ -41,7 +41,7 @@ Dan’s grandmother was the most important person in his life. After his father 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You talked to Robin?”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes, Danny. She comes every night to visit.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the next bed Mrs. Hafu spoke. “Every night.”
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He felt an adrenaline rush. Yes, he’d left Robin a message telling about Gramma’s injury, but didn’t expect her to visit. Since the separation, they’d drifted far apart and ceased all communication. He was sure his grandmother was hallucinating.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He felt an adrenaline rush. Yes, he’d left Robin a message telling about Gramma’s injury, but didn’t expect her to visit. Since the separation, they’d drifted far apart and ceased all communication. He was sure his grandmother was hallucinating.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He headed for the nurses’ station but was intercepted in the hallway.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Danny?”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A woman was waving from down the hall. He did a double take. It was Robin, the last person he expected to see. And something was different about her. She’d filled out a bit, her skin was whiter, her eyes a deeper blue and piercing, and she was generally more beautiful than he remembered.
@@ -123,7 +123,6 @@ Robin watched Gramma as she spoke to Dan. “Sometimes when older people are in 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I don’t know. I’ve got the lights off in here but I’m frightened.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay. Just lay low and stay quiet. I’ll be there in ten minutes.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He drove like a bat out of hell, then in the darkness hurried through the parking lot into the labyrinth he’d recently come to know so well, through the same corridor, up the same elevator, turned right at the same hallway to Gramma’s ward. As his footsteps echoed through the abandoned spaces, he wondered if he was about to be attacked by a vampire at any moment.
-
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Gramma’s ward a janitor with a pail and mop stared at him with hollow eyes. Dan nodded but the man just stared blankly. At the nurses’ station, three nurses stood silently watching him, then one spoke.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Excuse me? Can I help you?”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dan kept walking. “No, thank you.”

@@ -67,8 +67,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With that, Simpática tossed a match onto the pile and it burst into flame.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Those clothes belong to the rec center! We’ll have to pay for them!”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática watched the rising flames as the material shriveled, melted, and turned to ash, then Maya snatched the shoes from the edge of the fire.
-
-“At least not the shoes, Mom,” but Simpática yanked them from her.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“At least not the shoes, Mom,” but Simpática yanked them from her.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the clothing was reduced to embers, Simpática stomped out the flames, spread the ashes with her foot, and headed back to the stairs. Inside again, she pulled a knife from a drawer and began cutting one of the flamenco shoes.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mom! Don’t do that! Those aren’t mine either!”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpática was unmoved. Fending Maya off, she cut each shoe open in several places until they were ruined. &nbsp;

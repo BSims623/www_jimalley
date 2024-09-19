@@ -72,7 +72,6 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helen signed the report card but made an appointment to meet with Mrs. Henderson. At the meeting, the two women sat across from one another in the teacher’s lounge. Mrs. Henderson was nervous and fidgety, Helen calm. Mrs. Henderson, speaking quickly and in a reedy voice, said Dina was an excellent student but maybe facing much stronger competition now that she was in an all-white school.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helen gazed at Mrs. Henderson with weary eyes. “But didn’t she take the same tests that all the other students took? Didn’t she score well enough to be in the fast learners’ class like everyone else?”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Yes,” Mrs. Henderson conceded, her voice strained, “but I doubt if she was ever pushed very hard at Potomac.”
-
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helen took this in quietly. “I guess that’s it. I’ll make sure she studies harder this semester.”
 
 ### \#
