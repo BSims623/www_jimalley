@@ -36,7 +36,7 @@ export default function ShortStories() {
             which includes humor, horror, conjectural, and even some fantasy. Six short stories and
             one essay are included here for your reading pleasure. Enjoy!</p>
         </div>
-        <DesktopPhotoDisplay photos={photos} />
+        <DesktopPhotoDisplay photos={photos} tall={true} />
         <Slider photos={photos} />
         <h2 className={styles.genre}>Character-based:</h2>
         <div className={styles.short_stories_container}>

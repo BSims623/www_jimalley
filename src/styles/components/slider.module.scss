@@ -10,7 +10,7 @@
 }
 
 .keen_slider__slide {
-    height: calc(100vw - 40px);
+    height: calc((100vw - 40px) * 1.5);
 
     @media (min-width: $screen-md) {
         display: none;
