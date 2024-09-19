@@ -3,7 +3,7 @@ export const shortStories = [
         title: "Some Rain Must Fall",
         date: "2021-01-01",
         description: "Two middle-aged men go on a day trip to San Francisco where they discover some things about one another.",
-        path: "/stories/story_1.md",
+        path: "/stories/some_rain_must_fall.md",
         genre: "character-based"
     },
     {
@@ -38,7 +38,7 @@ export const shortStories = [
         title: "The Isla Vista Fish Head",
         date: "2024-04-04",
         description: "Friends place a bet on whether one of their friends who insists on smelling everything will actually smell a new book.",
-        path: "/stories/story_4.md",
+        path: "/stories/the_isla_vista_fish_head.md",
         genre: "catchall"
     },
     {
