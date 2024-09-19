@@ -60,9 +60,7 @@ Dan’s grandmother was the most important person in his life. After his father 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robin whispered to Dan, “Why is she talking so strangely?”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He shrugged.
 Robin watched Gramma as she spoke to Dan. “Sometimes when older people are in the hospital, their biorhythms get thrown off and they get disoriented. It happened to my father. Maybe that’s what’s happening to her.”
-
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dan hoped she was right but in his gut knew it was more serious than that.
-
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They stepped into the hall to speak privately.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Danny, I don’t like the way she looks. She’s so pale and acting so weird. And those bites look terrible.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He was comforted that at least someone else was on his side. “I tried to tell the nurse but she wasn’t very concerned.”
@@ -74,7 +72,7 @@ Robin watched Gramma as she spoke to Dan. “Sometimes when older people are in 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He looked her in the eye. “You have? Do we need to talk?”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She paused. “Yeah, I think we do. Not here and now, but soon.”
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next afternoon, Gramma’s condition was no better, still disoriented, combative, and, her nurse explained, now anemic and dehydrated. And the puncture wounds looked worse. Dan stayed with her until ten o’clock when Robin showed up.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As they sat with their patient, Robin said, “Danny, have you noticed anything odd about this hospital? Last night around three a.m. when it was really quiet I peeked into several other rooms along the hall. I saw at least ten elderly patients in restraints. It was the middle of the night but they were all wide awake and just stared at me with that strange look on their faces like Gramma. And Danny, they all had puncture wounds on their necks.”
@@ -92,7 +90,7 @@ Robin watched Gramma as she spoke to Dan. “Sometimes when older people are in 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dan looked at him incredulously. “_Seriously?_”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The doctor closed his eyes and spoke barely above a whisper. “No.”
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That night as Dan sat next to Gramma listening to her rhythmic breathing, she and Mrs. Hafu spontaneously began chanting in unison.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“All the children of the master will meet as one and live for all eternity.”
@@ -114,7 +112,7 @@ Robin watched Gramma as she spoke to Dan. “Sometimes when older people are in 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She looked into the air. “It could take two or three days, maybe longer.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dan assessed her angrily. “That’s not acceptable.”
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It was Halloween night and there was a full moon. Dan was in bed, exhausted. The thought that his innocent grandmother was being feasted on by some kind of real-life vampire while everyone pretended it wasn’t happening weighed heavily on him. But he was relieved that it would be over soon. He and Robin had a plan. In a few hours, they would whisk Gramma out the hospital’s back door before anyone noticed. He was grateful not only that Gramma would be safe but that he and Robin would accomplish the rescue together, like family.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At midnight his phone chirped. In the darkness he blinked at the display. It was Robin.

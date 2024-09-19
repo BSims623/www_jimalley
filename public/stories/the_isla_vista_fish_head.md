@@ -5,7 +5,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_If asked a follow-up question, “Would people even bet on whether a guy would smell a book handed to him?”_
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Lucifer would assess the questioner for several beats, smile smugly, then nod his ugly head._
 
-\#
+### \#
 
 Necks craned and heads turned toward Brad Gaston, solidly built, ruddy complexion, nearly white hair, nestled into a wicker chair on the edge of the patio. He had just said, “Who wants to place a bet?” Now he added, “When Jon’l comes back and I give him this book, you watch. He’ll smell it. Who wants to make a little wager?”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The group was silent. Carl Azid knew not to bet against Brad. Chaz was not inclined to bet on anything. Billy Blume looked on with amusement. Only Cherie Johnson, sitting across the way, was intrigued.
@@ -81,7 +81,7 @@ Necks craned and heads turned toward Brad Gaston, solidly built, ruddy complexio
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reflexively he leaped across the bed, barely missing Ann, landed clumsily on Brad, grabbed him in a head lock and ripped him out of bed. But unfortunately, rather than gain an advantage, he only pulled Brad, who outweighed him by 70 pounds, on top of him and was trapped, his breath crushed from his lungs by Brad’s throbbing laughter. Desperate for air, he finally shoved Brad off and began laughing too, their mirth so powerful that it vibrated the floorboards, the walls and the foundation and brought their many roommates to their door to see what had happened.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jon’l and Ann didn’t have a spare set of sheets so they removed the dirty ones and slept on the bare mattress. The next morning, Brad was particularly aware of Jon’l smelling everything. He saw him smell the cereal bowl and the box of corn flakes, then the newspaper. Brad wondered if the fish incident had spurred Jon’l’s olfactory sensitivity or merely his own awareness of it. He smiled to himself. For someone like Jon’l with a sense of smell like his, placing that fish head right in his face was perfect revenge. Perfect!
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now Jon’l stepped through the sliding door onto the patio in Flagstaff and burrowed back into his spot on the wicker couch between Carl Azid and Chaz. He didn’t notice that the group had become quiet. As he took a swig of his beer, Brad handed him a book.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Jon’l, happy birthday. This is the book I was telling you about, with all the lyrics from every Eric Clapton song ever recorded.”

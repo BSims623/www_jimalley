@@ -28,7 +28,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Okay,” Michael said, sensing a bit of awkwardness. “That would be nice.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sitting in a chair next to the bed, he gazed at her and waited.
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ingrid was, for all intents and purposes, Michael’s aunt. Originally, she was his first cousin-once-removed, or his mother’s first cousin. Then, many years ago, Michael’s maternal grand-father died about the time Ingrid’s mother died, leaving Michael’s grand-mother a widow and Ingrid’s father a widower. In the European tradition – all involved were German immigrants – the widowed grandmother married her widowed brother-in-law, and with that, Ingrid was officially no longer Michael’s first cousin-once-removed, but his aunt, or step aunt. Either way, to avoid confusion, he’d always referred to her simply as his aunt.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And she had stage-four lung cancer, spread to the bones and brain. Six or eight months previously, she’d wanted some landscaping done in her backyard, which included moving several small boulders, and hired some workers. But she got impatient and tried to budge one of the boulders herself, just to move it a few feet. But in doing so, she tweaked her back. She assumed the discomfort would subside if she took it easy for a few days but it hung on stubbornly and even got worse. She went to her doctor who prescribed stretching exercises and a mild muscle relaxant. Then she caught a chest cold she couldn’t shake. The doctor said it was pneumonia and prescribed a week in bed.
@@ -48,7 +48,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The tension rose perceptibly in the room, she fumbled to look at her watch. She seemed flustered, but then, Ingrid was never flustered. Quickly she composed herself and spoke. “Okay. But it’s getting late now. Why don’t we talk about that when you come tomorrow.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He wondered if he’d said something out of line. Was it inappropriate to delve into someone’s private life? &nbsp;But of course, it wasn’t. This was his aunt. This was his family too. There was nothing malicious in this enquiry. Now, sitting across from her on this sunny morning, he waited eagerly to hear about this forgotten relative.
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“My mother was born in a city called Horka in East Germany. It was a very simple country town. I went there when I was studying in Germany in the early sixties. The house her family lived in was very austere, especially by our standards today. It was a two-story building, and my mother’s family lived in two rooms on the second floor. Generally, houses there always had outdoor plumbing but it was a great source of pride to her family that they actually had a sink with running water in their room.”
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michael noticed her tone was rather formal, almost impersonal, more reminiscent of a lecture at the university than a conversation between an aunt and her nephew.
@@ -65,14 +65,14 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And then the room was quiet, illuminated by soft light, some trucks outside working a construction site up the hill, and Ingrid sitting in bed across from him, ill with stage-four lung cancer, waiting to die, and looking fatigued.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the rest of the afternoon, they discussed this and that, little snippets of conversations about anything that came to mind, the upcoming elections, a nephew’s job interview. Several friends dropped by to visit. Then Michael left and came back with dinner. At about eight, they said good night, he returned to the house, phoned Deborah, and settled in for the night.
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sitting in the dark lanai, a drink in hand, he gazed over the inky foothills sprinkled with a million dots of light. He kept reliving Ingrid’s account of her mother, perplexed by it. During the previous four days, she had reveled in a million colorful stories about her years at the university, travels to the Middle East and South Pacific, stays on the Big Island, cherished colleagues, memorable students; and then so much about her father Max, so many endearing traits and happy memories. But the recollections of her mother were surprisingly bare-boned, devoid of any joy or nostalgia, and almost mechanical in the telling. Did Ingrid share no special times with her mother, were there no little side stories, no particulars that made their relationship unique or memorable? &nbsp; &nbsp;
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He remembered his Uncle Ralph long ago telling a story about Martha. He said she had always been deathly afraid of going to dentists and went years without visiting one. Then when she was in her late fifties, she had a toothache that really bothered her. She put off making an appointment for as long as she could but finally couldn’t delay any longer. She had an appointment scheduled for a Monday morning. On Sunday morning, the day before, she had a heart attack and died.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michael sipped his drink.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He thought of Martha’s imposing presence, severe face and harsh manner. Then he felt sympathetic toward her. Her life was probably bleaker and more isolated than he ever considered. She had grown up in a small town in Germany and when she immigrated to the United States, was probably ill at ease with the strange language and customs of Los Angeles. Maybe she lived in a world of fear and avoidance, overwhelmed by life, compensating with a façade of bluster and self-assurance. Maybe Martha wasn’t as insensitive as he had concluded. Maybe Ingrid’s account was sparse because Martha died so long ago and the memories were now distant. And maybe the memories were just too painful to dredge up.
 
-\#
+### \#
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the darkness, he was aware of Ingrid’s presence in the house. Every room, every piece of furniture, every wall hanging and souvenir reminded him of her. It was hard to believe she would never set foot here again. She had occupied this house for forty years, lived a solitary existence, going to the university each day, collecting underwater fossils, identifying, labeling, ordering, writing scholarly works, and teaching.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He finished his drink and made another. The alcohol made the twinkling lights and muted little houses more spectacular.

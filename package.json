@@ -18,7 +18,7 @@
     "isomorphic-dompurify": "^2.14.0",
     "keen-slider": "^6.8.6",
     "marked": "^14.0.0",
-    "marked-custom-heading-id": "^2.0.9",
+    "marked-custom-heading-id": "^2.0.10",
     "next": "14.2.5",
     "next-image-export-optimizer": "^1.14.1",
     "path": "^0.12.7",
