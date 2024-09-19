@@ -5,7 +5,7 @@ export default function StoryCard({ title, date, description, path }) {
     return (
         <div className={styles.container}>
             <h3 className={styles.title}>{title}</h3>
-            <span className={styles.date}>{date}</span>
+            {/* <span className={styles.date}>{date}</span> */}
             <p className={styles.paragraph}>{description}</p>
             <Link href={`/short-stories/${title.replace(/\,/g,"").split(' ').join('-').toLowerCase()}/page-1`}><button className="btn">Read</button></Link>
         </div>
