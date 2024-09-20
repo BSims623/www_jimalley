@@ -8,9 +8,9 @@ export default function TicketsToSalvation() {
         <h1>Tickets to Salvation</h1>
         <div className="paragraph_container">
           <p>Fourteen-year-old Vita Pareto is about to achieve a life-long dream by performing as a
-            flamenco dancer in Santa Barbara&apos;s annual historical parade, <em>El Desfíle Histórico</em>. But as
-            she is climbing victoriously aboard a float before the parade, she is abruptly yanked to the
-            ground by her mother, Simpática, then before stunned onlookers, led back to their bleak
+            flamenco dancer in Santa Barbara&apos;s annual historical parade, <Link className={styles.link} href="https://www.santabarbara.com/activities/events/fiesta/historical-parade/">
+            <em>El Desfíle Histórico</em></Link>. But as she is climbing victoriously aboard a float before the parade, 
+            she is abruptly yanked to the ground by her mother, Simpática, then before stunned onlookers, led back to their bleak
             apartment building where Simpática burns Vita&apos;s flamenco dress and cuts up her dancing
             shoes. Such outbursts are nothing new from this troubled and unstable mother, but this
             one hurt, confirming what Vita has always suspected: happy endings were never meant
@@ -22,8 +22,9 @@ export default function TicketsToSalvation() {
             As she does, Mike&apos;s life spirals out of control, but soon the two will be drawn together,
             consolidate their efforts, and look inward for courage and direction.
           </p>
-          <p><em>Tickets to Salvation</em> stems from my experiences as a Spanish-speaking welfare worker in
-            Santa Barbara, California. The novel careens through the traps and pitfalls of the welfare
+          <p><em>Tickets to Salvation</em> stems from my experiences as a Spanish-speaking welfare worker in{" "}
+            <Link className={styles.link} href="https://www.google.com/search?q=santa+barbara+california&sca_esv=4d75a1f392f2e349&sca_upv=1&udm=2&biw=1680&bih=852&sxsrf=ADLYWIJ0GrgZL_72-1k2zYbkRVdrT3Y37Q%3A1726860353531&ei=QcztZs2MIMLj0PEP68nQiAM&oq=santa+barbara%2C+cal&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnNhbnRhIGJhcmJhcmEsIGNhbCoCCAAyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO4gUOYKWNoPcAF4AJABAJgBSaABzgKqAQE1uAEDyAEA-AEBmAIGoALjAsICBBAjGCfCAg0QABiABBixAxhDGIoFwgIKEAAYgAQYQxiKBZgDAIgGAZIHATagB7ce&sclient=gws-wiz-serp">
+            Santa Barbara, California</Link>. The novel careens through the traps and pitfalls of the welfare
             system, the tyranny of living with a mentally disturbed parent, and the efforts of a naïve
             young welfare worker to make a name for himself by rescuing an at-risk child.
           </p>

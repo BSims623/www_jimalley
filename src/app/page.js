@@ -27,10 +27,10 @@ export default function Home() {
               insightful young people, handwritten on plain blank pages.</p>
             <p className={styles.paragraph}>Now, a lifetime later, I&apos;ve written probably 150 short stories, many essays, and three
               novel drafts. My short stories have appeared in several national magazines and local
-              literary magazines; my essays in an on-line journal, and my debut novel, Tickets to
-              Salvation, is in final editing and will soon be available to the public.</p>
-            <p>Please learn more about <Link className={styles.link} href="/about">me</Link>, read an excerpt from my upcoming novel, <Link className={styles.link} href="tickets-to-salvation">Tickets to
-              Salvation</Link>, or read several of my <Link className={styles.link} href="short-stories">short stories</Link> on this site. 
+              literary magazines; my essays in an on-line journal, and my debut novel, <em>Tickets to
+              Salvation</em>, is in final editing and will soon be available to the public.</p>
+            <p>Please learn more about <Link className={styles.link} href="/about">me</Link>, read an excerpt from my upcoming novel, <Link className={styles.link} href="tickets-to-salvation"><em>Tickets to 
+              Salvation</em></Link>, or read several of my <Link className={styles.link} href="short-stories">short stories</Link> on this site. 
             </p>
           </div>
           <Link href="/about"><button className="btn">Read More</button></Link>
