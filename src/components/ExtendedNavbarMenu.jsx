@@ -9,21 +9,11 @@ export default function ExtendedNavbarMenu({ setIsOpen }) {
 
   return (
         <ul className={styles.nav_links_container}>
-            <Link href="/">
-                <li className={`${styles.nav_link} ${pathname === "/" && styles.nav_link_active}`} onClick={() => setIsOpen(false)}>Home</li>
-            </Link>
-            <Link href="/about">
-                <li className={`${styles.nav_link} ${pathname === "/about" && styles.nav_link_active}`} onClick={() => setIsOpen(false)}>About</li>
-            </Link>
-            <Link href="/tickets-to-salvation">
-                <li className={`${styles.nav_link} ${pathname === "/tickets-to-salvation" && styles.nav_link_active}`} onClick={() => setIsOpen(false)}>Tickets to Salvation</li>
-            </Link>
-            <Link href="/short-stories">
-                <li className={`${styles.nav_link} ${pathname === "/short-stories" && styles.nav_link_active}`} onClick={() => setIsOpen(false)}>Short Stories</li>
-            </Link>
-            <Link href="/contact">
-                <li className={`${styles.nav_link} ${pathname === "/contact" && styles.nav_link_active}`} onClick={() => setIsOpen(false)}>Contact</li>
-            </Link>
+            <li><Link className={`${styles.nav_link} ${pathname === "/" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/">Home</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/about" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/about">About</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/tickets-to-salvation" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/tickets-to-salvation">Tickets to Salvation</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/short-stories" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/short-stories">Short Stories</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/contact" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/contact">Contact</Link></li>
          </ul>
   );
 }

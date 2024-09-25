@@ -21,21 +21,11 @@ export default function Navbar() {
     <nav className={styles.navbar}>
       <Link href="/"><span className={styles.title}>Jim Alley</span></Link>
       <ul className={styles.nav_links_container}>
-          <Link href="/">
-            <li className={`${styles.nav_link} ${pathname === "/" && styles.nav_link_active}`}>Home</li>
-          </Link>
-          <Link href="/about">
-            <li className={`${styles.nav_link} ${pathname === "/about" && styles.nav_link_active}`}>About</li>
-          </Link>
-          <Link href="/tickets-to-salvation">
-            <li className={`${styles.nav_link} ${pathname.includes("/tickets-to-salvation") && styles.nav_link_active}`}>Tickets to Salvation</li>
-          </Link>
-          <Link href="/short-stories">
-            <li className={`${styles.nav_link} ${pathname.includes("/short-stories") && styles.nav_link_active}`}>Short Stories</li>
-          </Link>
-          <Link href="/contact">
-            <li className={`${styles.nav_link} ${pathname === "/contact" && styles.nav_link_active}`}>Contact</li>
-          </Link>
+        <li><Link className={`${styles.nav_link} ${pathname === "/" && styles.nav_link_active}`} href="/">Home</Link></li>
+        <li><Link className={`${styles.nav_link} ${pathname === "/about" && styles.nav_link_active}`} href="/about">About</Link></li>
+        <li><Link className={`${styles.nav_link} ${pathname.includes("/tickets-to-salvation") && styles.nav_link_active}`} href="/tickets-to-salvation">Tickets to Salvation</Link></li>
+        <li><Link className={`${styles.nav_link} ${pathname.includes("/short-stories") && styles.nav_link_active}`} href="/short-stories">Short Stories</Link></li>
+        <li><Link className={`${styles.nav_link} ${pathname === "/contact" && styles.nav_link_active}`} href="/contact">Contact</Link></li>
       </ul>
       { isOpen ? <FontAwesomeIcon icon={faX} className={styles.nav_button} onClick={() => handleClick()} /> :
         <FontAwesomeIcon icon={faBars} className={styles.nav_button} onClick={() => handleClick()} />
