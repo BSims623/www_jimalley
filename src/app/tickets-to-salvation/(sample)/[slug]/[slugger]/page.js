@@ -24,28 +24,28 @@ export default async function Page({ params }) {
     )
 }
 
-export async function generateStaticParams() {
-    const chapters = await getChapters('/stories/tickets_to_salvation.md');
-    const slugs = chapters.map((_, index) => `chapter-${index + 1}`);
+    export async function generateStaticParams() {
+        const chapters = await getChapters('/stories/tickets_to_salvation.md');
+        const slugs = chapters.map((_, index) => `chapter-${index + 1}`);
 
-    const sluggers = await chapters.reduce(async (accPromise, chapter, index) => {
-        const acc = await accPromise;
-        const numberOfPages = countPagesTwo(chapter, 3070);
+        const sluggers = await chapters.reduce(async (accPromise, chapter, index) => {
+            const acc = await accPromise;
+            const numberOfPages = countPagesTwo(chapter, 3070);
 
-        acc[`chapter-${index + 1}`] = Array.from(
-            { length: numberOfPages },
-            (_, index) => 'page-' + String(index + 1)
-          );
+            acc[`chapter-${index + 1}`] = Array.from(
+                { length: numberOfPages },
+                (_, index) => 'page-' + String(index + 1)
+            );
 
-        return acc  
-    }, Promise.resolve({}));
+            return acc  
+        }, Promise.resolve({}));
 
-    const paths = slugs.flatMap((slug) =>
-        sluggers[slug].map((slugger) => ({
-            slug,
-            slugger,
-        }))
-    );
-
-    return paths
-}
+        const paths = slugs.flatMap((slug) =>
+            sluggers[slug].map((slugger) => ({
+                slug,
+                slugger,
+            }))
+        );
+        
+        return paths
+    }
