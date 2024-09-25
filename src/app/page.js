@@ -11,11 +11,22 @@ export default function Home() {
       </div>
       <section className={styles.hero}>
         <div className={"img_container"}>
-          <ExportedImage className={`${styles.landing_image} ${styles.desktop_image}`} src={"/images/landing/jim_with_horse.jpg"} fill={true} alt="A picture of Jim Alley with a horse."/> 
+          <ExportedImage 
+          className={`${styles.landing_image} 
+          ${styles.desktop_image}`} 
+          src={"/images/landing/jim_with_horse.jpg"} 
+          fill={true} 
+          sizes="500px"
+          alt="A picture of Jim Alley with a horse."/> 
         </div>
         <div className={styles.content_container}>
           <div className={`${styles.mobile_img_container} img_container`}>
-            <ExportedImage className={`${styles.landing_image} ${styles.mobile_image}`} src={"/images/landing/jim_with_horse.jpg"} fill={true} alt="A picture of Jim Alley with a horse."/>
+            <ExportedImage 
+            className={styles.landing_image} 
+            src={"/images/landing/jim_with_horse.jpg"} 
+            fill={true} 
+            sizes="500px"
+            alt="A picture of Jim Alley with a horse."/>
           </div>
           <div className="paragraph_container">
             <p className={styles.paragraph}>I&apos;m a veteran short story writer living in West Sacramento, California with Deborah, my

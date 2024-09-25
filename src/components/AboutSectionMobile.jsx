@@ -6,7 +6,11 @@ export default function AboutSectionMobile () {
         <>
             <section className={styles.content_section}>
                 <div className={`img_container ${styles.img_container}`}>
-                    <ExportedImage src={"/images/about/jim_and_deb.jpg"} fill={true} alt="About image." />
+                    <ExportedImage
+                     src={"/images/about/jim_and_deb.jpg"} 
+                     fill={true}
+                     sizes="(max-width: 768px) 100vw" 
+                     alt="About image." />
                 </div>
                 <p>My primary inspiration to write has always been a collection of colorful friends, family, 
                     and acquaintances who have filled my life with joy, wonder, and intrigue. And, like all writers, 
@@ -18,7 +22,11 @@ export default function AboutSectionMobile () {
             </section>
             <section className={`${styles.content_section}`}>
                 <div className={`img_container ${styles.img_container}`}>
-                    <ExportedImage src={"/images/about/sunset.jpg"} fill={true} alt="About image." />
+                    <ExportedImage
+                     src={"/images/about/sunset.jpg"} 
+                     fill={true}
+                     sizes="(max-width: 768px) 100vw" 
+                     alt="About image." />
                 </div>
                 <p>During my teens, I would dream, quite literally, of holding a hard-bound book that I had written in my 
                     hands. I wrote some poetry and short stories that no one would ever see. During college, I wrote a full-length 
@@ -29,7 +37,11 @@ export default function AboutSectionMobile () {
             </section>
             <section className={`${styles.content_section}`}>
                 <div className={`img_container ${styles.img_container}`}>
-                    <ExportedImage src={"/images/about/jim_at_computer.jpg"} fill={true} alt="About image." />
+                    <ExportedImage
+                     src={"/images/about/jim_at_computer.jpg"} 
+                     fill={true}
+                     sizes="(max-width: 768px) 100vw" 
+                     alt="About image." />
                 </div>
                 <p>But I learned early on that my writing royalties would not pay the rent, or even the phone bill, so I did like 
                     a million others and joined the work force. Over the years, I was occasionally able to structure my hours to 
@@ -39,7 +51,11 @@ export default function AboutSectionMobile () {
             </section>
             <section className={`${styles.content_section}`}>
                 <div className={`img_container ${styles.img_container}`}>
-                    <ExportedImage src={"/images/about/trail.jpg"} fill={true} alt="About image." />
+                    <ExportedImage
+                     src={"/images/about/trail.jpg"} 
+                     fill={true}
+                     sizes="(max-width: 768px) 100vw" 
+                     alt="About image." />
                 </div>
                 <p>When a few years ago I was relieved of the obligation to work, my writing passion soared and my creativity flourished. 
                     I wrote a novella and 50 more short stories, and several dozen essays. And then, most significantly, I resurrected a 

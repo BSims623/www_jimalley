@@ -38,7 +38,11 @@ export default function AboutSectionDesktop () {
                     </p>
                 </div>
                 <div className={`img_container ${styles.upper_img_container}`}>
-                    <ExportedImage src={"/images/about/jim_and_deb.jpg"} fill={true} alt="About image." />
+                    <ExportedImage 
+                    src={"/images/about/jim_and_deb.jpg"} 
+                    fill={true}
+                    sizes="300px" 
+                    alt="About image." />
                 </div>
             </section>
             <section className="paragraph_container">

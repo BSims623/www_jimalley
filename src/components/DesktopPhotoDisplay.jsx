@@ -8,7 +8,11 @@ export default function DesktopPhotoDisplay({ photos, tall }) {
             {photos.map((photo, index) => {
                 return (
                     <div className={`img_container ${tall ? styles.img_container_tall: styles.img_container}`} key={index}>
-                        <ExportedImage src={photo.src} fill={true} alt={photo.alt} />
+                        <ExportedImage 
+                        src={photo.src} 
+                        fill={true}
+                        sizes="300px" 
+                        alt={photo.alt} />
                     </div>
                 )
             })}
