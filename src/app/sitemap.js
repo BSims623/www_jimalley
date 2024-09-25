@@ -62,21 +62,29 @@ export default async function sitemap() {
     const storyPages = await getStoryPages();
 
     let mainPages = pages.map((page) => ({
-        url: `${process.env.NEXT_PUBLIC_BASE_URL}/${page}`
+        url: `${process.env.NEXT_PUBLIC_BASE_URL}/${page}`,
+        changeFrequency: 'monthly',
     }));
 
     novelPages.forEach((page) => {
-        mainPages.push({url: `${process.env.NEXT_PUBLIC_BASE_URL}/tickets-to-salvation/${page.slug}/${page.slugger}`});
+        mainPages.push({
+            url: `${process.env.NEXT_PUBLIC_BASE_URL}/tickets-to-salvation/${page.slug}/${page.slugger}`,
+            changeFrequency: 'monthly',
+        });
     });
 
     storyPages.forEach((page) => {
-        mainPages.push({url: `${process.env.NEXT_PUBLIC_BASE_URL}/short-stories/${page.slug}/${page.slugger}`});
+        mainPages.push({
+            url: `${process.env.NEXT_PUBLIC_BASE_URL}/short-stories/${page.slug}/${page.slugger}`,
+            changeFrequency: 'monthly'
+        });
     });
 
 
     return [
         {
-            url: `${process.env.NEXT_PUBLIC_BASE_URL}`
+            url: `${process.env.NEXT_PUBLIC_BASE_URL}`,
+            changeFrequency: 'monthly',
         },
         ...mainPages
     ]
