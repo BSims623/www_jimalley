@@ -1,6 +1,11 @@
 import styles from "@/styles/pages/currentProject.module.scss";
 import Link from "next/link";
 
+export const metadata = {
+  title: "Tickets to Salvation",
+  description: "Tickets to Salvation stems from my experiences as a Spanish-speaking welfare worker in Santa Barbara, California. The novel careens through the traps and pitfalls of the welfare system, the tyranny of living with a mentally disturbed parent, and the efforts of a naïve young welfare worker to make a name for himself by rescuing an at-risk child."
+}
+
 export default function TicketsToSalvation() {
   return (
     <main className={styles.main}>

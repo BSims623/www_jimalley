@@ -5,6 +5,22 @@ import styles from "@/styles/pages/shortStoriesSlug.module.scss";
 import Link from "next/link";
 import Pagination from "@/components/Pagination";
 
+
+// Dynamically generate metadata
+export async function generateMetadata({ params }) {
+  const { slug, slugger } = params;
+  console.log(slug,slugger);
+
+  const storyTitle = slug.split('-').map((word) => word[0].toUpperCase() + word.slice(1)).join(' ');
+  const pageNumber = slugger.split('-').join(' ');
+
+  
+  return {
+      title: `${storyTitle} | Short Stories`,
+      description: `Read ${pageNumber} of "${storyTitle}".`,
+  };
+}
+
 export default async function Pager({params}) {
     const { slug, slugger } = params;
     const pageNumber = Number(slugger.split('-')[1]);

@@ -3,7 +3,10 @@ import "@/styles/globals.scss";
 import Navbar from "@/components/Navbar";
 
 export const metadata = {
-  title: "Jim Alley",
+  title: {
+    default: "Jim Alley",
+    template: "%s | Jim Alley"
+  },
   description: "I'm a veteran short story writer living in West Sacramento, California.",
 };
 

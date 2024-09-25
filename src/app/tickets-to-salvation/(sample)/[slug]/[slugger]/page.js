@@ -3,6 +3,19 @@ import MarkdownDisplayPage from "@/components/MarkdownDisplayPage";
 import Pagination from "@/components/Pagination";
 import styles from '@/styles/pages/sample.module.scss';
 
+// Dynamically generate metadata
+export async function generateMetadata({ params }) {
+    const { slug, slugger } = params;
+
+    const chapter = `${slug.split('-')[0][0].toUpperCase() + slug.split('-')[0].slice(1)} ${slug.split('-')[1]}`;
+    const pageNumber = `${slugger.split('-').join(' ')}`
+    
+    return {
+        title: chapter,
+        description: `Read ${chapter.toLowerCase()}, ${pageNumber} of "Tickets to Salvation".`,
+    };
+}
+
 export default async function Page({ params }) {
     const { slug, slugger } = params;
     const chapters = await getChapters('/stories/tickets_to_salvation.md');

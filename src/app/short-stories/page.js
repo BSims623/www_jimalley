@@ -4,6 +4,12 @@ import { shortStories } from "@/utils/shortStories";
 import DesktopPhotoDisplay from "@/components/DesktopPhotoDisplay";
 import Slider from "@/components/Slider";
 
+
+export const metadata = {
+  title: "Short Stories",
+  description: "I've discovered after the fact that my stories can be grouped into three different categories: One, character-driven; two, family affairs; and three, the Catchall group which includes humor, horror, conjectural, and even some fantasy. Six short stories and one essay are included here for your reading pleasure. Enjoy!",
+};
+
 export default function ShortStories() {
   const photos = [
     {

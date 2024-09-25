@@ -2,6 +2,12 @@ import styles from "@/styles/pages/contact.module.scss";
 import ContactMe from "@/components/ContactMe";
 import ExportedImage from "next-image-export-optimizer";
 
+
+export const metadata = {
+  title: "Contact",
+  description: "Send Jim a message.",
+};
+
 export default function Contact() {
   return (
     <main className={styles.main}>

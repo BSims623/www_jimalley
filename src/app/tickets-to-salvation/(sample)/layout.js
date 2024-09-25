@@ -1,6 +1,13 @@
 import styles from '@/styles/pages/sample.module.scss';
 import Link from 'next/link';
 
+export const metadata = {
+    title: {
+      default: "Jim Alley",
+      template: "%s | Tickets to Salvation | Jim Alley"
+    }
+  };
+
 export default function SampleLayout({ children }) {
     return (
         <main className={`${styles.main}`}>
