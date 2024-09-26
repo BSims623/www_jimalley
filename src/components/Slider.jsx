@@ -18,19 +18,17 @@ export default function Slider({ photos }) {
     },
   });
 
-  // useEffect(() => {
-  //   console.log(currentSlide);
-  // },[currentSlide])
-
-
-
   return (
     <div className={styles.container}>
        <div ref={sliderRef} className={`keen-slider ${styles.container}`}>
       {photos.map((photo, index) => {
                 return (
                     <div className={`keen-slider__slide ${styles.keen_slider__slide}`} key={index}>
-                        <ExportedImage src={photo.src} fill={true} alt={photo.alt} />
+                        <ExportedImage 
+                        src={photo.src} 
+                        fill={true}
+                        sizes="(max-width: 768px) 100vw"
+                        alt={photo.alt} />
                     </div>
                 )
             })}
@@ -40,6 +38,7 @@ export default function Slider({ photos }) {
             {[
                 ...Array(instanceRef.current.track.details.slides.length).keys(),
             ].map((idx) => {
+              
                 return (
                 <button
                     key={idx}

@@ -22,12 +22,12 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    gap: 1.5rem;
+    gap: 1rem;
 }
 
 .dot {
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 1rem;
+    height: 1rem;
     border-radius: 50%;
     border: none;
     background: $primary-dark;
@@ -39,5 +39,5 @@
 }
 
 .active {
-    background: $accent;
+    background: $accent !important;
 }
