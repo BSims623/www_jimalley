@@ -6,16 +6,6 @@ import styles from '@/styles/components/slider.module.scss';
 import ExportedImage from 'next-image-export-optimizer';
 
 export default function Slider({ photos }) {
-//   const [sliderRef, instanceRef] = useKeenSlider(
-//     {
-//       slideChanged() {
-//         console.log('slide changed')
-//       },
-//     },
-//     [
-//       // add plugins here
-//     ]
-//   )
   const [currentSlide, setCurrentSlide] = useState(0);
   const [loaded, setLoaded] = useState(false);
   const [sliderRef, instanceRef] = useKeenSlider({
@@ -28,9 +18,9 @@ export default function Slider({ photos }) {
     },
   });
 
-  useEffect(() => {
-    console.log(currentSlide);
-  },[currentSlide])
+  // useEffect(() => {
+  //   console.log(currentSlide);
+  // },[currentSlide])
 
 
 

@@ -5,8 +5,6 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-console.log(__dirname);
-
 const nextConfig = {
     output: process.env.NODE_ENV === "production" ? "export" :
     undefined,
