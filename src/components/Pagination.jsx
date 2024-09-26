@@ -22,7 +22,7 @@ export default function Pagination({numberOfPages, currentPage, story, thePath})
         <div className={styles.container}>
             <Link href={currentPage === 1 ? `${thePath}/${story}/page-1`: `${thePath}/${story}/page-${currentPage - 1}`}>
                 <div className={`${styles.button} ${styles.button_start}`}>
-                    <FontAwesomeIcon icon={faArrowLeft} />
+                    <FontAwesomeIcon className={styles.icon} icon={faArrowLeft} />
                 </div>
             </Link>
             {pages.map((page, index) => {
@@ -44,7 +44,7 @@ export default function Pagination({numberOfPages, currentPage, story, thePath})
             })}
             <Link href={currentPage === numberOfPages ? `${thePath}/${story}/page-${numberOfPages}`: `${thePath}/${story}/page-${currentPage + 1}`}>
                 <div className={`${styles.button} ${styles.button_end}`}>
-                    <FontAwesomeIcon icon={faArrowRight} />
+                    <FontAwesomeIcon className={styles.icon} icon={faArrowRight} />
                 </div>
             </Link>
         </div>  

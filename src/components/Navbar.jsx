@@ -1,13 +1,9 @@
 'use client';
-
 import Link from "next/link";
 import styles from "@/styles/components/navbar.module.scss";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import ExtendedNavbarMenu from "./ExtendedNavbarMenu";
-import { faBars, faX } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import ExportedImage from "next-image-export-optimizer";
 
 
 export default function Navbar() {
