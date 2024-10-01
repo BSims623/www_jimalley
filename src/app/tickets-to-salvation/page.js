@@ -12,17 +12,17 @@ export default function TicketsToSalvation() {
       <div className={styles.content_container}>
         <h1>Tickets to Salvation</h1>
         <div className="paragraph_container">
-          <p>Fourteen-year-old Vita Pareto is about to achieve a life-long dream by performing as a
+          <p>Fourteen-year-old Maya Pareto is about to achieve a life-long dream by performing as a
             flamenco dancer in Santa Barbara&apos;s annual historical parade, <Link className={styles.link} href="https://www.santabarbara.com/activities/events/fiesta/historical-parade/">
             <em>El Desfíle Histórico</em></Link>. But as she is climbing victoriously aboard a float before the parade, she is abruptly yanked to the
             ground by her mother, Simpática, then before stunned onlookers, led back to their bleak
-            apartment building where Simpática burns Vita&apos;s flamenco dress and cuts up her dancing
+            apartment building where Simpática burns Maya&apos;s flamenco dress and cuts up her dancing
             shoes. Such outbursts are nothing new from this troubled and unstable mother, but this
-            one hurt, confirming what Vita has always suspected: happy endings were never meant
+            one hurt, confirming what Maya has always suspected: happy endings were never meant
             for her.
           </p>
-          <p>The family&apos;s welfare worker Mike Stanning has been scrambling to rescue Vita for a long
-            time with little success. Then something amazing happens. Vita quietly gathers her
+          <p>The family&apos;s welfare worker Mike Stanning has been scrambling to rescue Maya for a long
+            time with little success. Then something amazing happens. Maya quietly gathers her
             courage and embarks on a magical journey to re-define herself and resurrect her dreams.
             As she does, Mike&apos;s life spirals out of control, but soon the two will be drawn together,
             consolidate their efforts, and look deeply inside themselves for courage and direction.
