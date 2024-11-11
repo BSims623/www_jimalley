@@ -14,7 +14,7 @@ export default function ContactMe() {
 
     emailjs
       .sendForm('contact_service', 'contact_form', form.current, {
-        publicKey: 'ErEMFeVs-twp1r6im',
+        publicKey: 'TpCxqgEFn79uZG7MS',
       })
       .then(
         () => {
