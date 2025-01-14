@@ -11,22 +11,22 @@ export default function Home() {
       </div>
       <section className={styles.hero}>
         <div className={"img_container"}>
-          <ExportedImage 
-          className={`${styles.landing_image} 
-          ${styles.desktop_image}`} 
-          src={"/images/landing/jim_with_horse.jpg"} 
-          fill={true} 
-          sizes="500px"
-          alt="A picture of Jim Alley with a horse."/> 
+          <ExportedImage
+            className={`${styles.landing_image} 
+          ${styles.desktop_image}`}
+            src={"/images/landing/jim_with_horse.jpg"}
+            fill={true}
+            sizes="500px"
+            alt="A picture of Jim Alley with a horse." />
         </div>
         <div className={styles.content_container}>
           <div className={`${styles.mobile_img_container} img_container`}>
-            <ExportedImage 
-            className={styles.landing_image} 
-            src={"/images/landing/jim_with_horse.jpg"} 
-            fill={true} 
-            sizes="500px"
-            alt="A picture of Jim Alley with a horse."/>
+            <ExportedImage
+              className={styles.landing_image}
+              src={"/images/landing/jim_with_horse.jpg"}
+              fill={true}
+              sizes="500px"
+              alt="A picture of Jim Alley with a horse." />
           </div>
           <div className="paragraph_container">
             <p className={styles.paragraph}>I&apos;m a veteran short story writer living in West Sacramento, California with Deborah, my
@@ -38,10 +38,8 @@ export default function Home() {
               insightful young people, handwritten on plain blank pages.</p>
             <p className={styles.paragraph}>Now, a lifetime later, I&apos;ve written probably 150 short stories, many essays, and three
               novel drafts. My short stories have appeared in several national magazines and local
-              literary magazines; my essays in an on-line journal, and my debut novel, <em>Tickets to
-              Salvation</em>, is in final editing and will soon be available to the public.</p>
-            <p>Please learn more about <Link className={styles.link} href="/about">me</Link>, read an excerpt from my upcoming novel, <Link className={styles.link} href="tickets-to-salvation"><em>Tickets to 
-              Salvation</em></Link>, or read several of my <Link className={styles.link} href="short-stories">short stories</Link> on this site. 
+              literary magazines; my essays in an on-line journal, and my debut novel, <em>Maya&apos;s Song</em>, is in final editing and will soon be available to the public.</p>
+            <p>Please learn more about <Link className={styles.link} href="/about">me</Link>, read an excerpt from my upcoming novel, <Link className={styles.link} href="mayas-song"><em>Maya&apos;s Song</em></Link>, or read several of my <Link className={styles.link} href="short-stories">short stories</Link> on this site.
             </p>
           </div>
           <Link href="/about"><button className="btn">Read More</button></Link>
