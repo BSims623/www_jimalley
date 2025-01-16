@@ -1,59 +1,19 @@
-"use client";
+'use client';
 
 import { usePathname } from "next/navigation";
 import styles from "../styles/components/extendedNavbarMenu.module.scss";
 import Link from "next/link";
 
 export default function ExtendedNavbarMenu({ setIsOpen }) {
-  const pathname = usePathname();
+    const pathname = usePathname();
 
   return (
-    <ul className={styles.nav_links_container}>
-      <li>
-        <Link
-          className={`${styles.nav_link} ${pathname === "/" && styles.nav_link_active}`}
-          onClick={() => setIsOpen(false)}
-          href="/"
-        >
-          Home
-        </Link>
-      </li>
-      <li>
-        <Link
-          className={`${styles.nav_link} ${pathname === "/about" && styles.nav_link_active}`}
-          onClick={() => setIsOpen(false)}
-          href="/about"
-        >
-          About
-        </Link>
-      </li>
-      <li>
-        <Link
-          className={`${styles.nav_link} ${pathname === "/mayas-song" && styles.nav_link_active}`}
-          onClick={() => setIsOpen(false)}
-          href="/mayas-song"
-        >
-          Maya's Song
-        </Link>
-      </li>
-      <li>
-        <Link
-          className={`${styles.nav_link} ${pathname === "/short-stories" && styles.nav_link_active}`}
-          onClick={() => setIsOpen(false)}
-          href="/short-stories"
-        >
-          Short Stories
-        </Link>
-      </li>
-      <li>
-        <Link
-          className={`${styles.nav_link} ${pathname === "/contact" && styles.nav_link_active}`}
-          onClick={() => setIsOpen(false)}
-          href="/contact"
-        >
-          Contact
-        </Link>
-      </li>
-    </ul>
+        <ul className={styles.nav_links_container}>
+            <li><Link className={`${styles.nav_link} ${pathname === "/" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/">Home</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/about" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/about">About</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/tickets-to-salvation" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/tickets-to-salvation">Tickets to Salvation</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/short-stories" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/short-stories">Short Stories</Link></li>
+            <li><Link className={`${styles.nav_link} ${pathname === "/contact" && styles.nav_link_active}`} onClick={() => setIsOpen(false)} href="/contact">Contact</Link></li>
+         </ul>
   );
 }

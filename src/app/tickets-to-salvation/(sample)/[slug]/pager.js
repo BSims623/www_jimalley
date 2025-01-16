@@ -9,7 +9,7 @@ export default function Pager({ params }) {
 }
 
 export async function generateStaticParams() {
-    const slugs = await getChapters('/stories/mayas_song.md');
+    const slugs = await getChapters('/stories/tickets_to_salvation.md');
 
     return slugs.map((_, index) => `chapter-${index + 1}`)
 }
